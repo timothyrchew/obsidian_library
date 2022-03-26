@@ -1,0 +1,43 @@
+# Direction:
+- What are the underlying values i want to guide my career?
+    - have a positive impact on the lives for the underpriveledged and marginalized
+    - build products and services taht contribute to what is good, right, noble in the world (and most probably, don't contribute to things that do the opposite)
+    - be obedient, faithful, flexible to whatever God calls me to in the process, even if it means changing things up or heading a different direction
+- What kind of role do I want to be in?
+    - Have influence and impact
+    - Sitting at the crossroads of engineering and product and people
+    - maybe i am actually really happier playing second fiddle in a place where i have influence, impact, and feel like a core memeber. rather than actually being the main leader and being the one who has to set the pace. maybe id rather be the DP than the Director.
+        - do i actually want to be in a leadership role or have I imagined this because I want the clout or respect? if i do want to be in a leadership role, why do I want that?  Right now I tend to shy away from really wanting to take full owernership and responsibility.
+- What things are most important to me in my workplace?
+    - work life balance
+- What role do I want my work to play in my overall life purpose? Recognize that right now work is all I have, whereas if I have a family and kids, thats going to get flipped upside down. Don't overprioritize work just because its all I have right now. Determine how I want my career to slot in along with the rest of my life?
+    - my 20s had lots of drive to push myself hard, take risks, dream big, conquer the world. now im a lot more chilled out, im a lot more content (and frankly) concerned with not having to work TOO hard and being able to be comfortable. im not sure i want to give into that. Should i be pushing back against this? Should I be really pushing more out of my comfort zone and more.
+- What have been the best work experiences or teams I've been a part of, and what made them like that? Conversely, what have been the worst experiences and what should I avoid in the future?
+- What kind of accomplishments would i want to have?
+- What are my unique strengths and advantages?
+- What are the types of role or situations that I will not thrive in?
+- Where would I like to be in 1 year?
+- Where would I like to be in 3 years?
+- Where would I like to be in 5 years?
+# What do I want to focus on next? What do I see as the trajectory of my career? What would be the most I can gain from my next year at Yonder and what kinds of opportunities do I want to ask Chelsea for?
+- My ideal scenario at Yonder
+    - id like to find way to continue taking ownership of more feature work. 
+    - im really hoping to be able to work closely with our UX director, eager to learn more about that space. 
+    - when it comes to taking ownership, i think the key for me is really finding a balance where the overhead isn't so much that i feel like im not able to still spend a bigger part of my time coding. thats kinda a delicate balance. so i think the takeaway of what where id like to contribute most, would be around owning the right size of project. had cavalli not stepped in to help with the coordinating and planning of parts of the work im not as comfortable with, this project had enough overhead + and enough product work required that i think it would ahve tipped the scales to where i didn't feel like i was able to do as much coding as i liked.
+    - in summary, id definitely like to keep finding projects to own. i like to grow and stretch in that way. with the asterix, that the ideal that im still able to find that that im still able to carve out taht focused coding time.
+- what i need to do in my own time:
+    - i desparately need to get more serious about my technical growth both during my job and outside my job hours if i want to grow my career in this way. my current habits, engagement, and focus won't propel me to the level I say i want to get to. i will feel so much better if i've earned the technical jobs to deserve the leadership perspective.
+- what are my strengths?
+    - i can be scrappy and can get stuff done
+    - im good at communicating
+    - i can approach engineering from a cusomter and strategic product thinking angle
+    - i have good emotional intelligence
+    - im very passionate and engaged when its something that alings with my mission in life
+- my weaknesses?
+    - im not great at being super detail oriented when it comes to analyzing technical details or writing very thorough specs
+    - im not great at thinking on my feet
+    - im not a technical wizard and will probably never be one. im just going to be generally average from a technical standpoint.
+    - i really on my intuition and gut too much, over deep thorough thinking
+    - i don't have great charisma and am not fun in the sense that magnetic leaders are
+    - i have above average drive, but not the kind of drive that the super ambitious go getters have. i am content with playing a support role where i feel i have influence and impact, but don't need the spotlight and i generally don't want to be the one who has the lead the charge and set the pace
+    - i can do speaking and talking in groups, but is super exhausting and draining for me

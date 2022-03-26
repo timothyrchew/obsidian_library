@@ -1,0 +1,57 @@
+/* Unordered */
+
+.cm-formatting.cm-formatting-list.cm-formatting-list-ul.cm-list-1 {
+    color: red !important;
+    font-weight: bold;
+    font-size: large;
+}
+
+.cm-formatting.cm-formatting-list.cm-formatting-list-ul.cm-list-2 {
+    color: orange !important;
+    font-weight: bold;
+    font-size: large;
+}
+
+.cm-formatting.cm-formatting-list.cm-formatting-list-ul.cm-list-3 {
+    color: yellow !important;
+    font-weight: bold;
+    font-size: large;
+}
+
+.HyperMD-list-line.HyperMD-list-line-4 .cm-formatting-list-ul.cm-list-1 {
+    color: green !important;
+}
+
+.HyperMD-list-line.HyperMD-list-line-5 .cm-formatting-list-ul.cm-list-2 {
+    color: blue !important;
+}
+
+.HyperMD-list-line.HyperMD-list-line-6 .cm-formatting-list-ul.cm-list-3 {
+    color: purple !important;
+}
+
+/* Ordered */
+
+.cm-formatting.cm-formatting-list.cm-formatting-list-ol.cm-list-1 {
+    color: red !important;
+}
+
+.cm-formatting.cm-formatting-list.cm-formatting-list-ol.cm-list-2 {
+    color: orange !important;
+}
+
+.cm-formatting.cm-formatting-list.cm-formatting-list-ol.cm-list-3 {
+    color: yellow !important;
+}
+
+.HyperMD-list-line.HyperMD-list-line-4.CodeMirror-line .cm-formatting-list-ol.cm-list-1 {
+    color: green !important;
+}
+
+.HyperMD-list-line.HyperMD-list-line-5.CodeMirror-line .cm-formatting-list-ol.cm-list-2 {
+    color: blue !important;
+}
+
+.HyperMD-list-line.HyperMD-list-line-6.CodeMirror-line .cm-formatting-list-ol.cm-list-3 {
+    color: purple !important;
+}

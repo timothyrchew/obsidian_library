@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "f059fc22064153eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "945d12519df9d197",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Food Options.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "0f346da92f8de99d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Miracle Morning.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ff5d789afff22951",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc1747994a8c9b91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec597a0691cdb273",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "44766651cc92dccf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "food",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c0d0bf215c642d98",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "bafdbada603cb1fe",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2a29ae0ee8ebc721",
+    "type": "split",
+    "children": [
+      {
+        "id": "45af4a667a76f03f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ca50e583cd89430",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Food Options.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d6b3a59470251e66",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Food Options.md"
+              }
+            }
+          },
+          {
+            "id": "cf85c87e2673a300",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "b8524ef886477655",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "937e6938c87ebf13",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5efb77f62138cec2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "945d12519df9d197",
+  "lastOpenFiles": [
+    "Food Options.md",
+    "now.md",
+    "Miracle Morning.md",
+    "Interview Prep.md",
+    "projects/personalEffectiveness.md",
+    "notes/books/Pragmatic Programmer.md",
+    "notes/books/Untitled.md",
+    "notes/books/spiritualDirection.md",
+    "projects/rest.md",
+    "notes/Video Games.md"
+  ]
+}

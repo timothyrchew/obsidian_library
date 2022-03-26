@@ -1,0 +1,147 @@
+# Template
+- action: 
+    - i will do [habit] [at location] [at time|in sequence]
+- the why:
+    - why is it important that i stick with this? what are the benefits?
+    - what is the identity change that i want to embrace that will drive this new behavior?
+- tactics:
+    - logistics:
+        - what is the best time to do this? the harder it is, the earlier in the day to do it.
+        - what is the best place to do this?
+    - progression:
+        - how will i track it? what will i track? how will i make the progress visceral?
+        - what is the easiest starting point with this habit, that should take 2 minutes or less?
+        - map out the follow on journey towards the destination, but identity the first step that is so easy i can't say no.
+    - external factors: what are one time actions i can do ahead of time so that i make it less reliant on motivation?
+        - postive habits: how can i structrue my environment to make it more inevitable?
+        - negative habits: how can i structrue my environemtnt to make it more invisible?
+        - how can i prime the activity in advance to make it more automatic?
+        - can i use a commitment device to lock in future behavior?
+        - can i buy or acquire anything to better enable this behavior?
+    - mindset / planning / leverage:
+        - what is the identity change I want to embrace that will drive this new behavior?
+        - how can i continue to highlight the underlying motivations and reason behind why this is important? how can i remind myself of the long term benefits?
+        - how can i master the small decisive moments that send me down the road towards the right path, or set me up for failure?
+        - how can i ritualize the start of this habit?
+        - how can i sequence / stack habits to build synergy?
+        - can i build in a reward or punishment contingent on doing or avoiding this activity?
+# Spiritual
+- action:
+    - i will read the bible and pray first thing in the morning after eating breakfast and before i start browing the internet
+- the why:
+    - remember that this is the absolute foundation for EVERYTHING in my life, and this is the most important investment I can make in my life. if there is only one thing I accomplish in life, this would make everything worth it. i'm willing to stake my life on following God and  trusting that following him is worth it in this life and in eternity. that its the treasure worth selling everything for in order to buy the field.
+- tactics:
+    - logistics:
+        - do it first time in the morning
+        - make it the very first thing i do, get militant about cutting out internet browsing in the morning. consider a harder block for my work laptop using freedom. the moment i get online i open the door to get distracted to burn a bunch of time. this is the most critical time in my day and i can't have that risk.
+    - progression:
+        - the baseline, easiest part that i should never skip is a couple minutes of focused prayer time. and taking in some spiritual wisdom via reading something for a couple minutes. so at a very minimum 15 minutes worth.
+        - move towards a dedicated hour in the mornings with prayer, scripture, and reading. maybe also carving out a prayer time in the evening before going to bed, as i reflect on my day and plan for tomorrow.
+    - external factors:
+        - be ready for work, don't leave anything i need to sort out in the morning prior to jumping in to standup. so that i can be fully focused.
+        - put on nature sounds, light a candle, sit on the couch away from the computer.
+        - set up my morning space (candle, book, coffee, clear space) the night before so that I can roll right into this time and i make it sacred.
+    - mindset / planning:
+        - master the decisive moment of not getting online until i have finished this part. nothing valuable ever comes out of mindless morning browsing.
+# Career Dev
+- action:
+    - i will spend 20 minutes a day focusing on either interview prep or career skill development. 
+- the why:
+    - apart from my spiritual growth, this is another area where time is ticking and the more i grind now, the more i'll be able to reap the benefits over the rest of my career. build steady, maintainable habits of growth and learning. harness the competitor and my ambition. lean into sources of insprition around me and from other areas (like athletes) and focus on training myself and getting the most out of my abilities. embrace the challenge to learn and grow.
+- tactics:
+    - logistics:
+        - i will do this either right after work or after dinner, before it gets too late in the day and I'm tempted to pass
+    - long term plan + progression
+        - the starting point is getting in the habit of intentionally investing in my growth on a daily basis, apart from just my immediate work at yonder.
+        - to expand this, i want to ramp up my time investment to account for the fact that I have lost ground to makeup, and I will need to work harder than my peers. ramp up towards an hour a day.
+    - external factors:
+        - light a candle, get myself a cup of tea, put on some classic music or jazz. turn off distractions.
+    - mindset / leverage:
+        - envision myself as an athlete, competing against others. draw inspiration from guys like jordan and kobe. just like sports, this is a competitive environemtn where the biggest factor is my commitment and work ethic and time. get pumped up to make the most of my ability to exercise and stretch my mind to be the best i can be.
+        - set my sights on where i want to be in my career. envision the future i want and then harness that to propel me to put in the the work.
+# Exercise
+- action:
+    - i will do at least 1 exercise routine every day
+- the why:
+    - this is one of the best investments i can in my future quality and life and longevity. building discipline and willpower. looking better and feeling better today. the very best thing I can do to mitigate the effects of getting older. i can't coast on being young anymore. 
+- tactics:
+    - logistics:
+        - do it earlier in the day. most realistically around lunch time. plus i can harness the aparent mental boost from this doing.
+    - long term plan and progression:
+        - work towards incorperating more fully demanding workouts with cardio, strength training that could be sprinkled throughout the week. baseline would be a bodyweight routine that I can fit in easily at home on my own or anywhere else. And then as part of my weekly planning I look to designate a 2-3 days for more intense gym workouts / cardio.
+        - establish clear goals i would like to work towards. running 5 miles. bench pressing a certain weight. a certain amount of reps with a specific barbell
+        - don't neglect how important healthy eating is as a supplement to all my exercise. tackle this component in a different habit or weekly rhythm.
+    - external factors:
+        - pick as many types of activities that are actually fun. get creative with the types of exercises i do. mix it up, look for fun sports or hiking or exploratory outdoor stuff to do.
+        - find a good podcast / audiobook or music that I can put on and get lost in.
+    - mindset / leverage:
+        - find ways to keep the long term benefits in mind: they are overwhelming.
+        - tap into inspiration i can take from others to get pumped up. look at those who push themselves to the limit- professional atheletes and others. if they can demonstrate that kind of commitment and drive, I can commit and followthrough on this type of workout.
+# Reflection and Planning
+- action:
+    - every evening i will take a moment to reflect on the day, express gratitude, and take not of what i have learned or will do better
+    - every evening i will plan out my next day
+- the why:
+    - this is the foundation upon which all my work is built. this tees me up for sucess in all my other areas and without it i am going to be left drifting in the wind.
+- tactics:
+    - logistics:
+        - do it after the main productive task of the day
+    - progression:
+        - just keep doing the thing
+    - external factors:
+    - mindset / planning:
+# Weed cutback
+- action:
+    - i will lock up all my delta 8 and delta 9 from Mon - Fri
+- the why:
+    - immediate benefits i've noticed:
+        - i am waaay more productive in the evenings because ive got nothing better to do and the typical mindless gaming doesn't actually satisfy me at all (2k just doesn't seem interesting unless im mindlessly high)
+    - my health
+        - fucked up sleep, dependent on a chemical for a basic human function.
+        - permanent memory and word recall issues for chronic weed users
+        - lung damange and harmful ingestion even when vaping
+        - when im high i eat like an idiot this in and of itself is a substantial downside of getting high too often
+        - im less motivated to workout and exercise when weed is a big part of my life
+    - my career
+        - mental clarity and sharpness. i am 100 percent not operating at my best, and i noticeably feel not as sharp and honed in as i know i can be, and have been in the past.
+    - my appearance
+        - weed is proven to damange hair follicles, and by continuing to consume weed, i am potentially accelerating my hair loss. even if this isn't true, by stopping i can rest knowing between fin/min and cutting back on weed, i am doing all i can.
+        - increased cortisol levels which is proven to contribute to hair loss
+    - my faith
+        - weed puts me in a mental state that moves me away from God, and towards things that are unhealthy and damaging for my realtionship with him
+        - starting to smoke weed again was the start of my spiritual, marital, and personal decline that led to my divorce and me wasting big parts of the last couple years playing video games, jerking off, and wasting time on the internet. was it the cause? maybe not, but i for sure has contributed in some ways to this destruction and waste in my life.
+    - my personal effectiveness
+        - its a huge source of wasted time, and my "fuck it" mentality that has been handicapping my efforts to grow and acheive for years.
+    - my relationships
+        - its made me more selfish and its pushed me away from relationships due to the fact that i would rather smoke weed and be alone at home, then invest in spending time with others.
+        - it is something that i have choosen to hide from other christians, meaning one more point of me not being transparent or honest with those in my life.
+- tactics:
+    - logistics:
+        - lock it up sunday night until friday morning
+    - progression:
+        - start with just weekend nights
+        - work towards just two weekend nights
+        - work towrads once a week
+    - external factors:
+        - keep only healthy snacks in the house- find healthy reasonable snacks i can eat when im high- get rid of the junk food taht i will inevitably devour at a rediciulous clip if its around.
+        - replace this time with more healthy activities. fill in the time id spend wasting getting high and zoned out...actually doing positive things that actuallty rejuvanate, grow me, reward me. leverage the small steps into momentum towards the goals i set for mysefl. keep my eyes on the reasons why.
+            - playing guitar
+            - reading fiction
+            - learning how to build video games
+            - working on fun side projects (my org mode sync server)
+            - learn to play chess
+            - get more into active trading
+    - mindset / planning:
+        - the key is to get at the underlying reasons i smoke: to destress, for arousal, and for sleep. and to work to address each of those via a good habbit. and to make the good habbit more desireable, visible, and easier.
+        - embrace the challenge. admit it will be hard, i will be tired and grumpy. but remember what lies on the otherside and choose to embrace the suck in light of all the goals and benefits i listed above.
+        - do this with god. i know this is in his will for me, ask him for his help and choose to engage and try to meet him in this challenge.
+        - take the pressure off needing to get a good night sleep, and being fearful of not sleeping well. it won't kill me and i can push through it. (use the approach from my sleep project)
+# Reference Material:
+- good writeup about applying principles from atomic habits to quitting porn. good practical ideas for building habits to quit any compulsive behavior: https://www.reddit.com/r/pornfree/comments/d98dc0/atomic_habits_of_going_porn_free/
+# Habit backlog:
+- Sleep Hygeine
+    - inbox
+        - try cutting out caffeine after noon
+        - exercise
+        - no screens after 10pm
+        - meditation before bed

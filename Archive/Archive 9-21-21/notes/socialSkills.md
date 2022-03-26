@@ -1,0 +1,16 @@
+# Key Reflections from a frustrating Yonder team happy hour (may 6 2021)
+- We had a meetup to send Cavalli off. I went into it kinda scared taht I would end up with the feeling of negative social capital and i left feeling kinda like that happened (essentially doing more damange than just being that lame dude who had some excuse for not being there).
+- i really struggle to interact in bigger group settings. i struggle with banter, with shooting the shit. i struggle with building rapport.
+- the somewhat strange dynamic is that i feel like i can do great in 1-1 settings, but that my ability to carry a conversation in that setting is really dependent on having someones undivided attention and that my skills in 1-1 don't translate well to group settings.
+- during the time- i felt awkward. i didn't know where to look. At times i had genuine questinos but i struggled to interject. sometimes i feel like i jumped in too strong in my attempts to fit in a question (i kinda talked over mably, and then she didn't even answer or acknowledge my question). i felt somewhat invisible in the group. and as time went on, i just wanted it to be over and i wondered if i would have been better of just skipping the time or if i had just left early.
+- sometimes i can be good in groups, i think of my times in the MK groups, at the well social events, i think being with college friends. in these places i felt like i had an established place and belonging, and i felt self assured, conident, at ease.
+- how can i change this?
+    - is this largely a confidence and mindset issue?
+    - is this a social skill issue?
+    - are there things i can do to be improving in both of these areas?
+    - how can i become more comfortable in my skin, more comfortable with who i am and sharing who i am with others?
+    - how can i address my inner beleif and self-doubt to be more assured and confident? can i use visualization?
+    - can i find ways to practice my banter and jokes in other spaces so i can get better with this at work? can i start by engaging more with these things on slack?
+    - what are the situations where i've felt most confident? why? how are those moments different from the times that i really struggle (like the specific experience above?). what can i transplant from the positive scenarios?
+    - how can i be more inquisitive, more curious, more engaging?
+    - how can i develop a healthier, more honset apporach to dealing with the shortcomings of my hearing? how can i embrace this as my story, who i am, and get over the embarassmetn of admitting this weakness to others or trying to hide it?

@@ -1,0 +1,105 @@
+{
+  "main": {
+    "id": "f059fc22064153eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec432d65e7913182",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "now.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f1c147e18afa883a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bfe3e524da87f310",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "38219c0b82538550",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f41337542bcb98a8",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "cf54157dc6449b10",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b1fe88ddc4cc640e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "now.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "5c87860880c729dd",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "now.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "ec432d65e7913182",
+  "lastOpenFiles": [
+    "now.md",
+    "Interview Soft Questions 2021.md",
+    "notes/Life Structure Brainstorm.md",
+    "work.md",
+    "meta.md",
+    "notes/interview_prep/bond.tech.md",
+    "Interview Soft Questions 2020.md",
+    "notes/interview_prep/designATM.md",
+    "notes/New Hanger.md",
+    "Interview Prep.md"
+  ]
+}

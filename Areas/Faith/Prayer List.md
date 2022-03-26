@@ -1,0 +1,59 @@
+- My faith:
+    - have mercy on me, a sinner
+	- where i have a hardness of heart or ignorance or blindness, show me
+	- thanksgiving
+	- my immediate:
+		- lead me to the right spiritual resource for Lara and I to engage with together.
+    - spiritual formation
+		- learning how to change and to grow authentically. relying on your power, while doing my part to respond to it.
+		- uncover the roots of my unwanted sexual behavior. help me to get to the root issues, to understand and do work at the core. bring lasting, true heart change to me in this area. help me to learn what the process of true transformation looks like through this part of my life.
+	- serving others
+		- show me how you want me to use my time, my resources, my abilities for the sake of others. i confess my selfishness, my preoccupation with my own desires. i want to grow in this, i want to live this out and i want to be your hands and feet. show me today. show Lara and I together.
+	- for community
+		- for developing the relational skill, self confidence, to better engage and relate and put myself out there. learning how to genuinely foster connection, interest, curiousity in broader settings.
+		- for further healing through a strong faith community and renewed close relationships. for redeeming my patterns of relating to others that have handicapped my spiritual growth. for the experience of vulnerability and openess and belonging. that i would be able to apply the principles from unwanted alongside other faith journeyers.
+	- Engagement season:	
+		- help us to build a firm foundation of faith and following you together. Use me in her life to draw her closer to you, to model faith more effectively, to help reveal you to her more.
+			- help me to lead wisely and proactively and persistently in this area
+			- help us both daily to make the choice to follow you. help us to spur one one another, to support one another effectively in this.
+		- my own relational growth:
+			- growing to love her more completely, more selflessely.
+			- to pursue her proactively
+			- to accept her and encourage her
+		- Our time together:
+			- help us to continue having productive, deep discussions that get to the heart of faith, the gospel, the person of Jesus, and what it means for our lives. 
+			- lead us to the right spiritual resources that would move us forward one step at a time
+			- guide us in terms of the right faith community. 
+				- finding earnest co-journeyers
+				- some strong christian women that would embrace her and pursue her heart and would draw her to you
+				- lead us to more spiritual co-journeyers that we can build a relationship with. more friendships and stronger community that could speak into our lives, that could model faith for lara.
+				- if / when it becomes time to move to another community, show us that clearly and lead us to the next place.
+		- wedding planning
+			- conversation with dustin
+			- conversation with groomsmen
+			- for face to face connections with jeremy
+			- venue and logistics
+	- For work:
+		- for learning to trust God, and walk with him through the daily challenges and pressures. that i would keep the right perspective and truly learn to lean on God and rely on him. that i would experience peace, calm, and surrender of these things with God.
+		- for true growth: technically, relationally, personally. that i would continue to advance in my competency and my experience. that i would get the senior promotion after the pilot program project.
+		- that i would let go my pride, stop being concerned with comparing myself to others and instead focus on what God is calling me to, and being faithful in the journey and path he has for me. that i would stop seeing koty as someone to compete with, or root against. that God would help me give that up, that i would set asside my pride. that i would instead appreciate the chance to learn from him.
+		- for genuine personal connections with coworkers. for the courage to reach out, for right perspective. for opportunities to build friendship.
+		- for favor from yang, coworkers. that my efforts and my work would be recognized.
+		- a clearer sense of what he is calling me to, where I should be looking to take my career.
+- For Lara:
+    - her faith journy
+		- a meaningful connection to scripture.
+        - speak to her and show her about Jesus through the Choosen
+        - foster a spiritual hunger in her. that she would be digging deeper into the big questions, that she would feel the weight and emptiness of a world without You
+        - reveal yourself and your character and your love for her in a profound way that would shake up her world. show her the way that you feel for her, and the plans that you would have for her life. open her eyes to understand and accept the Gospel.
+	- specifics:
+		- guidance about meaning and purpose in her work, career. a connection of her work to faith and purpose.
+- My family:
+    - Mom and Dad
+		- health, safety, flourishing
+	- Grandpa
+		- meaningful relationships, purpose, and quality of life through the end of his time 
+    - B&A&Z
+		- That God would move them into a place of flurishing: relationally, maritally, spiritually, physically. That this immediate season of struggle and grind would come to an end, that would God would make it clear to both of them what is next. That they would have true unity.
+- Others:
+	- The Hongs

@@ -1,0 +1,120 @@
+{
+  "main": {
+    "id": "f059fc22064153eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bc5dfc2c47d4c54",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Resources/Book Notes/Critical Journey.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a990e39cddab217e",
+    "type": "split",
+    "children": [
+      {
+        "id": "958e7bd75b80c083",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06ba48b44e4c4173",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f0e0bb0db5b1ddbe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "prayer",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1aa7c85b504b56cb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 233.5
+  },
+  "right": {
+    "id": "be86f81c220ba1e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "273782ed07bcafe1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b60edd2a2a7c2f17",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Resources/Book Notes/Critical Journey.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "adfd4f959a376879",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Resources/Book Notes/Critical Journey.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0bc5dfc2c47d4c54",
+  "lastOpenFiles": [
+    "Resources/Book Notes/Critical Journey.md",
+    "Resources/Book Notes/Untitled.md",
+    "Projects/Upgrade Life Org/PARA - Zettel - PKM Setup.md",
+    "Resources/VPN Account.md",
+    "Resources/Untitled.md",
+    "Archive/Archive 9-21-21/notes/Video Games.md",
+    "Projects/Upgrade Life Org/Life Structure Brainstorm.md",
+    "daily_journal/2021-09-21.md",
+    "Life Structure Brainstorm.md",
+    "PARA - Zettel - PKM Setup.md"
+  ]
+}

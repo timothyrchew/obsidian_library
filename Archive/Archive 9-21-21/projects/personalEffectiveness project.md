@@ -1,0 +1,233 @@
+# Inbox
+- Life goals brainstorm
+    - Near term
+        - Get right with God. Align everything to this most important part
+        - Become more fun, more comfortable in my skin, able to joke around and banter with coworkers and friends, more witty and charismatic (Charisma on Command YT series)
+        - Be a creative person. Dive into my creative sensibilities- whether its photography, music, writing...be a person who is looking to continually invert and grow and express myself creatively. Foster this part of me.
+        - Learn to play chess
+        - Spiritual deep dive with Lara
+        - Breaking through my ceiling as an engineer (changing habits and diving deeper)
+        - Clarifying what it is that I want out of my career, be intentional and decisive with my path. No coasting, no passivity, no living with regrets
+        - Build deep, healthy friendships. Change habits and invest in relationships as one of the most valuable parts of my life. I want to have a true core group of friends. I want to be committed to people. I want people to commit to me. I want to know and be known.
+        - I want to be a cultured, well read, personal. With refined taste, having experienced and appreciated the best culture has to offer from over the years. Someone who is broadly knowledgeable and able to speak up conversations about anything. I don't want to give into cheap culture.
+        - I want to prove to myself that I can be disciplined, and focused over the long haul. That I can work hard and sacrifice in order to experience a big part of my potential with my natural abilities.
+        - Start a family, I want to play sports with my son
+        - Invest in my health and body. Enjoy my ability to be active. Protect my health and mental sharpness to the beer of my ability. Being more moderation and control to my indulgences
+        - Start a company and sell it
+        - Own a plane I can truly travel with. own a private jet.
+        - Not be enslaved or addicted to anything
+        - live on the beach and be able to surf in the mornings
+        - Build a fully committed, life long love with a partner
+        - Love in the pacific nowrthwest
+        - Bareboat charter in the BWI
+        - Get really good a tennis
+        - Learn how to golf
+        - work at faang company
+        - run a half marathan
+        - make a basic 3d modeled game in unity. learn game dev / simulation basics
+- Three legs of the stool, things that need to happen in conjuction with my first step for best chances of success:
+    - clarify the "why", define the destination and its importance. get inspired by greatness. tap into some who set the bar high with their example and who have done great things, noble things. ones who embraced the work and sacrifice in order to acheive their callings. people to spur on my own imagination and dreaming of what it is i should be striving for with the same ambition, the same drive, the same zeal for excellence. what are my goals? what do i want to do in the next month, in the next 1 / 3 / 5 years.
+        - https://www.reddit.com/r/getdisciplined/comments/33jijb/method_a_goalsetting_fix_that_will_transform_your/
+        - duncan robinson. (https://www.youtube.com/watch?v=SFCDNYKBy6k&ab_channel=BigTenNetwork)
+        - kobe bryant
+        - tech giant (gates?)
+    - clarify the "how". explore resources. put it all on the table. explore others ideas and my own ideas, and then pick a plan or collections of ideas/systems (ideally with some consensus behind it) and commit to sticking with it for 2-3 weeks. don't get stuck deliberating or fixating too much or too long on the plan. jump in and commit and then continue experimenting and adjusting, failing and getting back up over the long haul. but the most important thing is to commit to the process.
+        - flow state
+        - (wiki) https://old.reddit.com/r/getdisciplined/wiki/index
+        - no zero days: https://www.reddit.com/r/getdisciplined/comments/1q96b5/i_just_dont_care_about_myself/cdah4af
+        - abc planning: https://www.reddit.com/r/getdisciplined/comments/26p1ye/method_abc_your_day_an_organized_and_methodical/
+        - http://www.jamesmaa.com/2012/12/02/james-maas-productivity-hacking-guide/
+        - https://www.reddit.com/r/getdisciplined/comments/8jlqm1/advice_10_year_journey_to_becoming_disciplined/
+        - https://www.reddit.com/r/getdisciplined/comments/1hhzoc/ive_spent_the_past_15_years_drinking_masturbating/caulo68/
+        - https://www.reddit.com/r/getdisciplined/comments/2dd7yh/advice_peacehs_guide_to_becoming_disciplined/
+        - https://www.reddit.com/r/getdisciplined/comments/1iel81/the_hidden_enemy_behind_all_failure_the_urge_of/
+        - https://www.reddit.com/r/getdisciplined/comments/2v079a/advice_momentum_how_to_actually_get_yourself_to/
+        - https://www.reddit.com/r/getdisciplined/comments/2tf157/advice_persistence_river_a_metaphor_for_sticking/
+        - (comment has references to best books to consider) https://www.reddit.com/r/getdisciplined/comments/jfcngp/advice_heres_the_real_reason_why_the_stuff_you/
+        - https://www.reddit.com/r/getdisciplined/comments/j7d5mm/the_habit_reframe_method_updated_a_completely/
+        - https://www.reddit.com/r/getdisciplined/comments/8g4c5b/discussion_what_books_do_you_recommend_for/
+        - https://www.reddit.com/r/getdisciplined/comments/jx4qgs/discussionqueens_gambits_genius_what_you_can/
+        - David Goggins Can't Hurt Me, Jocko Extreme Ownership- books listed constantly as ones that actually kicked people into gear to get discplined. Both good audio book candidates.
+        - David Goggins Can't Hurt Me
+            - drive vs motivation: https://www.tacticalsource.com.au/blogs/news/motivation-vs-drive
+            - learning to embrace and relish being uncomfortable, suffering as only way to acheive greatness
+- Ongoing:
+    - Spiritual integration. connect this ongoing bring God into this. pay attention to my past mistakes, my past areas of messing up and getting down on myself, and giving up. try to learn from those mistakes and course correct this time. go through my therapy notes from nov 17th (in notion) to pull from those realizations and ideas. especially dealing with stuff like my pride, my self-reliance, relationship vs outomes focus with God. embracing the daily prayer that mom sent me.
+    - Establish this as an ongoing, interative project that i don't need to solve all right now. Just constantly seeking to make incremental improvements. Define the process through which I continue to refine, continue to chip away, continue to solidify. Recognize that this will always be an iterative process that I will likely be continually revising and tweaking. I don't need to find the perfect system now. Its more important that I just pick something and then kick it off. Keep this as an ongoing project, BUT set boundaries in order to prevent myself from ending up in a place where I am spending more time focusing on the system than I am on actually doing the important work.
+- revamping my life system and tools:
+    - need to clarify what exactly i want out of my system, how i harness a combination of eyes on the prize, personal project management, and discpline in order to keep fuel in my tank towards the things that i want to acheive. take a minute to look for inspiration, look at what other people do for this, and identify what the key parts of the system ought to be.
+        - look at roam research, obsidian, athens, leo, and other systems that support transclusion and block referencing and see if they might be a beter fit for what i am looking for right now, specifically with building a flexible dashboard that is a complation of a bunch of other files. draw some inspiration from the whitepaper, vision, problems they are trying to solve (link below)
+            - https://roamresearch.com/#/app/help/page/Vu1MmjinS
+        - what my system must account for
+            - a place to dump ideas, tasks, references, with a process that ensures i can find them, and will see them when it is important
+            - a framework that lets me know what i ought to be doing ay any given moment
+            - something that is forward looking, and balances my future ambitions and high level goals with the day-to-day minutia. something that straddlest he line between ensuring i am making progress on what is most important to me, while also making sure i am handling my daily responsibilities well
+            - a system that is not just about optimizing the "what" i should be doing, but also optimzing the "why" and the "how". harnessing things like flow state to get over the hump and to make staying on track more enjoyable and easier. aiming to not force myself to do stuff i dont want, but to reduce the friction and find ways to get myself over the initial hump and into flow stae. something that addresses the importance of putting fuel in my tank, and harnesses resources in order to help me stay motivated and focused and energized towards what matters most to me (and prevents me from chasing the smaller, fleeting, insignificant things that tempt me in the moment). think a lot about flow state here.
+            - a framework that accounts not only for my personal life but also for work life
+            - flexible enought to handle both rigid projects (a clear set of steps for a coding project) and more ambiguous, long term projects like my faith journey.
+        - withlist for my main digital note / project repository
+            - unified- can handle both notes, projects, and tasks. has a system for scheduling and reminders.
+            - works on mac, windows, and mobile
+            - transclusion
+            - data stored locally, ideally in text form so im not tied to a single platform
+            - networked-thought approach with graph view. easier to let ideas and thoughts go where they will. dont want to have to feel rigid in the way that i structure notes. want there to be more freedom in connecting and linking them to one another. being able to flow off of notes more orgnanically in the brainstorming phase without having to worry about structure in the moment.
+        - implement a basic version of my daily flow / dashboard in roam and obsidian (or another viable tool) to see if those feel better right off the bat. might even just spend a couple weeks with stripped down version of my "now" contents + daily routine in roam to testdrive (and to see if transclusion and graph is as useful as i think) and learn some things from that, with the intention of waiting for org mode transclusion to get polished, or another tool to mature more.
+    - think carefully about the best way to organize my files according to "org" best practices, as well has harnessing org tools like the tags, todos, custom agendo modes, calendar etc. part of the problem right now is that im literally just using it as a losely structured text scratchpad with a bunch of notes. not beginning to harness the power and upside of roam. if i just want a series of text notes doing this all in vscode would be better (plus counless other more accessible note apps).consider what all is on my "now" file and how its evolved, what it says about how i can optimize my system. consider how i will do things like implement "weed plan" within my system. then revisit my folder/file organizatin plan and make any chances if i see fit. make sure im not having to do lots of manual copying and moving tasks around between pages, but actually harnessing the org mode tools and features to minimize this.
+    - look at org-roam and decide whether it would serve my personal org to where its worth giving it a shot now
+        - intructions on how to install org-roam (https://www.youtube.com/watch?v=M5wNvN0jISU&feature=emb_title&ab_channel=AbrahamPeters)
+    - refine exactly how i want to update my daily, weekly routines, planning, day/week focus docs. refine them (since they are the engine behind everything, and they are where the real work and change and improvments need to be centered)
+# Life Tool Architecture
+- Org Mode Life system organization (files within org mode):
+    - focus
+        - day / week planner
+        - collection of habits, notes, goals, tasks for the upcoming week
+        - short term
+    - meta (extension of personal effectiveness project)
+        - a root doc that pulls in all my routine, rhythms, rol projects. my week / month planners. my project master list.
+        - e:/Dropbox/1emacs/meta.org
+    - projects (file for each major project, including its tasks)
+        - personal effectiveness
+        - professional dev
+        - faith
+        - health
+        - relationships
+    - work
+        - projects, tasks, ref
+    - inbox
+        - quick capture location
+    - tasks
+        - collection for all tasks that might not be connected to projects
+    - journal
+        - place to write down daily thoughts, reflections ordered by date
+    - notes
+        - folder for misc files
+    - archive folder
+    - other tools:
+        - notion for misc notes or inbox on the go
+        - tick tick for quick capture on the go
+        - pen and paper (for a more visceral, simple and tactile medium)
+            - for my ephemeral day working list
+            - for my habit tracking
+# Main Project Definition
+- [https://www.mindmeister.com/1434305942](https://www.mindmeister.com/1434305942)
+- Personal Effectiveness Project Pyramid:
+    - Scaffold structures in my life that provide coverage for the most important things in life and are self-sustaining in their maintenance and evolution
+        - Clear structure for encompassing my personal priorities in projects and weaving that work into my daily life
+        - A way to deal with the daily influx of now ideas, tasks, chores and balancing their execution alongside existing high level priorities
+        - An approach to building habits that allows me to continue to build and internalize personal change without bogging myself down with checklists or too many simultaneous projects
+    - Putting fuel in the tank and increasing the horsepower of my vehicle
+        - Look at growing willpower and strengthening the discipline muscle. Using brute force and focus when it is necessary. This increasing the horsepower of my engine.
+        - Look at feeding and augmenting motivation in a way that reducing the internal and this should make me more excited and driven to keep my foot on the pedal due to anticipating where I am going and what I stand to gain, therefore not minding the fact that maybe we drive through a less comfortable part of town to get to the paradise beach.
+- Outcomes
+    - Eliminate the discrepancy between my intentions and my followthrough. Addressing the issues of poor execution, wasted time, rewiring my reward/pleasure pathways to reinforce good things, procrastination that undermine my goals and plans, developing stronger willpower and discipline. Overcoming the strong desire and habit I have of throwing all my goals out the window to indulge in the moment. Focus on the “how” behind my life slump.
+- The "Why":
+    - Getting better at this is the difference between a life well lived to its full potential and the regret of "what ifs" at the end of my life.
+- Specific Issues to grow in:
+    - Addressing procrastination and time wasting
+    - Developing stronger willpower + discipline
+    - Rewiring my reward / pleasure center of my brain to enjoy pursuing my longer goals, and to be deeply disappointed and turned off by just wasting time towards no productive end.
+    - Choosing harder things for the long term reward / Avoiding the allure of instant gratification for meaningless things
+    - How to align my daily actions with my long term goals
+# RoL
+- Summary of my Life system:
+    - Based around establishing rhythms and routine to ground myself in intentional progress towards the things most important in my life.
+    - Directed by regular intervals of reflection and planning
+    - Have a mirror of these steps for my professional life, but do keep actual work tasks (apart from generic professional development) in a separate box
+    - Aim to keep it as simple and tool agnostic as possible
+- Pitfalls:
+    - Focus on doing, not optimization. Its easy for me to love researching new tools or trying to optimize my process while not actually putting in real work. At the end of the day, the most important thing is that I am executing and getting stuff done, so I need to stay focused on just doing rather than too much planning.
+- Core Building Blocks:
+    - Repositories (containers for inboxes, tasks, ideas, projects)
+        - TickTick as a central place to track all the tasks for different projects (largely non repeating)
+        - Project reference material as a blueprint, scratchpad, and roadmap for the important goals in my life.
+        - (implementation note: rougher next actions can be stacked up here. refined task that are ready for action should get moved into TickTick)
+        - Master Project List (Master collection list of all projects that are either active or on the roadmap. Filtered through different timescales and limited to 5 per timescale per "Start Finishing" approach. Include a short one line "why" that I can use to continue to frame the importance of these.
+    - Rhythms (regular intervals with clear steps that take repositories/projects → organized executable lists. These are essentially the anchors for my life system):
+        - Daily Rhythm to follow (predetermined blocks of times for different aspects of my life, as well as a defined routine to plan for the next day)
+        - Weekly Rhythm to follow (predetermined tasks for certain days of the week, as well as a defined routine to plan for the next week)
+        - Monthly Rhythm
+        - Rhythm Roadmap (sequencing diverse daily, weekly rhythms tuned for windows or seasons of emphasis and focus on specific areas)
+    - Checklists (these serve as roadmaps for execution and involve moving items from repositories to "on deck". the goal is that ive done all the thinking, planning, prep during rhythms while building these list, and I can run on autopilot when it comes to execution and knocking things off these checklists)
+        - Day List (I've seen best follow through putting this on paper: an aggregation of goals, time blocks, focus for the upcoming day. A clear, realistic picture of a successful day that I should be able to rip up and toss out after each day). I also find that doing this with pen and paper provides a good tactile, highly visible way that adds extra incentive and reward when i actually finish and cross things off the list.
+        - Week List (scaffolding for the upcoming week, with any high level planning or day specific tasks)
+        - Monthly Roadmap (scaffolding for the upcoming quarter. focused on themes, projects, areas of focus broken down week by week)
+    - Habits / Routines (these are distinct from rhythms, in that they are less not about teeing up my work but they are about internalizing change and growth for the long haul. lots of personal growth projects will likely output a set of habits that i want to adopt in my life as a way to first practice conscious steps, and then to move that into my subconscious in a way that because automatic):
+        - These live in Notion and can include things like my morning routine, my bedtime routine, my no-motivation routine, my flow state routine. If projects provide the structure for change, and if project tasks are specific finite actions, routines are the long term repeated actions where the change really sets in.
+        - I've found that tracking habits on 3x5 cards is a great way to provide an extra level of drive to mark them off, and see progress in a way that is more tactile and adds extra incentive to not break the chain
+- Tactics:
+    - Habits are the best mechanism for change over the longhaul. Focus on cementing these are building on these and I think its the most important tool in belt. I've found that 3x5 cards and the visible ritual of marking them off and seeing the chain, is a great extra push over a digital version of this.
+    - A distraction-free environment is key for me to stop wasting time. Use "self-control", "freedom", and use things like pomodoros to keep myself in the groove. These are great at helping me get over that initial barrier and into some kid of flow state.
+    - The start of my day does SO much to set the trajectory for the rest. The absolutely worst thing I can do is to start it off playing video games or indulging, because it builds the opposite kind of momentum. The best thing I can do is to start it productively with focus, and then I find I get on a roll that just easily carries me through the rest of the day (especially on weekends).
+    - Use Pen and Paper for my working Daily list / Schedule. It is a great way for my to boil down my more robust system in the backend, into a simple, clutter-free, tactile list that i can carry and mark up as the day goes on.
+    - Utilize all the tactics around creating flow state- which unlocks a level of engagement and fun in my work that becomes almost effortless and extremely fullfilling.
+    - Find ways daily to tap into the "why", to remember the stakes, and to harness my desire to acheive my goals. This should be the fuel for my action, but can be easily lost if I take too small of a daily view.
+    - Be quick to jump up when I fall off the wagon. Don't give into discouragement and avoid the tempation to throw in the towell. Anticipate and plan for when I will inevitably fail, and build the resiliance to forgive myself, learn from my failure, and then jump right back into the fight.
+    - Don't overcomplicate things, don't let perfection be the enemy of good. With the amount of time I've spend planning and trying to optimize my system, I could have knocked out enourmouis amounts of real project work by just picking up the next task and grinding. Avoid the obsession and compulsiveness with my project organization and system. I get too latched on to this as being the solution for me. When in reality I end up spending way more time tweaking, researching, documenting my system at the expense of focusing on action. It ends up as a never ending pursuit of a magic bullet, rather than accepting hard work and the daily grind that actually brings about success. Optimize for simplicity and action, set asside endless organizatin and research.
+    - I can't rely on willpower, it might work sometimes but it will end up failing me. I need to require on structure, habits, and smart planning and processes to remove the need for me to feel "motivated" or to exert the will to overcome my lesser instincts. Make it harder to do the bad things, and inevitable to do the good things.
+    - One of the most valuable things I can do is to go into my day with a clear plan that manages my energy wisely and realistically, so that I can kick into autopilot right away the next morning. Frontload my day, and give myself a set of tasks with a clear goal to get a strong kickstart on my day. aim to knock out everything before dinner, so that I can truly refresh and relax in the evenings.
+    - Be realistic when I set up my goals. If I consistently overreach, my plans loose their meaning because I am destined to fail and this kills any momentum or sense of accomplishment. when i plan realistically, understanding my bandwidth, this forces me to prioritize the most important things, it builds momentum, and it helps change my identity as someone who doesn't break the chain. This approach values realsitic, consistent, small, compounding steps rather than pipedreams that never get off the ground.
+    - Make mornings exciting. Set up my goals clearly the night before so I can get charged up about knocking everything out for my day, and excited to tackle them when I get up and excited about feeling good about my day and accomplishing my goals. Be excited about doing all my work before dinner, so that I can truly relax and enjoy the satisfaction of rest without guilt in the evening. Craft my morning ritual and environment to be refreshing and pleasant- get great coffee, fancy breakfast items, nice music, a clean apartment- all things that set me in the right mindset and help me build momentum headed into my day.
+    - I've got to be realistic about my capacity, and my planning needs to reflect what I can realistically get done. Once I cross into unrealistic week / daily planning, I essentially invalidate all my plans because none of it is based in reality. I also set myself up to continually feel like a failure and like I am falling short, and I make the plans something associated with failure and defeat, rather than assocaited with a feeling of accomplishment and progress.
+# Productivity Stystems Reference
+- Reference to hybrid analogue / digital productivity systems:
+    - (https://zapier.com/blog/digital-and-paper-note-taking-systems/)
+    - (https://thesweetsetup.com/hybrid-productivity-method-digital-analog/)
+    - (http://www.asianefficiency.com/productivity/digital-analog-calendar-system/)
+    - (https://doist.com/blog/pen-and-paper-productivity/)
+    - (https://michaelhyatt.com/digital-analog-hybrid/)
+    - (http://www.liveintentional.life/hybrid/)
+# Operation Snowball
+- Outcome: Have a clear, self-reinforcing path forward to address the challenge of keeping my productive momentum and progress towards my personal goals through incremental steps every day. Tangibly I know I am doing great when I am consistently coming home after a full day at work and knocking out 3-4 pomos in a way that is rewarding and enjoyable, as well incorporating restorative rest.
+- I do a pretty good job building the momentum during vacation when i have big chunks of time, but then it often dies out once work starts up again. I need to build up the muscles, as well as really putting new willpower, discipline, planning tactics to use in order to transplant the good habits from this break into my daily working life with all the additional demands, distractions, and tiredness. This is where the rubber really meets the road.
+- Ideas to consider:
+    - add more ideas, tactics, viewpoints to the snowball cheatsheet (what I review to jumpstart myself when im feeling unmotivated and want to give up). incorperate this into my checklist (or figure out another way to have this available and insinctually what i go to when i want to give up). add concepts from 10 days notes. Once I've got a base, then I can move onto the step below- what is most minimal, absolutely simplest way for me to make the application of these concepts something that runs on autopilot. 
+    - figure out how I will use the snowball cheatsheet, IE `make it run on autopilot.`what is the intersection between daily rhythm, keeping things lean, that helps me put into practice while minimizing decision-making, remembering, and mental overhead. 
+    - for it to be most effective:
+    - I need some combination of marinating in the concepts until they are internalized and part of my natural thinking. this can be done through either journaling through prompts (just reading same shit not likely to work). journaling and self-evaluation in response to the ideas is probably a good step here. cheatsheet could contain prompts or things to respond to.
+    - I also need a way to come to these concepts at moments when the truths need to be applied most. IE when I am on my way home from work and I am tired and just looking forward to firing up 2k, but I have 3 pomos I need to knock out. I need some way to bring the cheatsheet to mind in these moments. One way is through daily, weekly reflection.asking how i did, what went well, what i could do better. and then based on those prompts, making clear plan too harness or apply concepts from cheatsheet.
+    - there is really no way around not having some sort of additional step into my daily, weekly routine. but key is to keep this as lean as possible while also being effective.
+    - for this cheatsheet, potential categories to start with: prompts or questions for reflection, tactics to apply in the moment, and principals that I want to internalize and meditate on until they are second nature.
+    - capture and distill actionable steps and mental models from self-discipline, habit, willpower resources and bake these into my daily routine, focused sharply on addressing the challenge of consistently knocking out 3-4 pomos on an open work night. 
+    - focus on what i can do to really soak up more value out of less time. assume a maximum of 3-4 pomos as a constraint and focus on maximizing the returns on those 90-120 minutes a day.
+    - be prepared to fail, to fall off the wagon but to get back up and. focus on getting my attitude right, fighting Hyde when he will inevitably use defeatism, negativism to try to knock me off track when I screw up.
+    - determine the right daily format to implement what I'm learning and reading on these topics: what is the right format for this? a mantra to read? a viewpoint to internalize or meditate on? a checklist to walk through?
+# Snowball Cheatsheet
+- Helpful Planning and Framing my work tips:
+    - Big dreams and ambitious ideas broken down into clear, realistic, achievable small goals for each day is the key to success. I would really struggle to set off on a run, knowing I want to get better, but without good course plotted or a finish line for that day. Having the course markers and an achievable finish line puts rewarding success within my clear grasp, as well as allowing me to build in a reward that will actually be gratifying and I can enjoy.
+    - Minimize decisions I need to make in the moment. Clearly plan out my next day in a way that removes an ambiguity or needing to make decisions in the moment about how to spend my time. 
+    - Write these tasks down on paper. Make it tangible. This adds a visceral sense of compulsion to connecting a "good day" to knocking out my tasks. making it something that i carry with me and complete, adds stronger incentive to actually complete the day, rather than much more etherial or easy to set aside digital methods.
+    - Assign pomodoros to my tasks in a way that assures my goals are realistic given the time I have. This keeps me to from setting out more than I can clearly do, as well as helping me to get into the flow state in the moment. Using time-blocking also
+    - Focus on putting in the effort, but not on achieving an outcome (which is not predictable or generally within my control). focus on what i can do and control, that is to take small incremental steps every day. this makes success achievable every day, rather than something that is elusive or uncertain and therefore leads to feeling overwhelmed or as though Im constantly failing.
+    - Take momentum and trajectory seriously. No matter how many times I might try to tell myself I can start a Saturday morning by playing a game of 2k and then getting started, I have seen time and time again how that sets me off on a trajectory that is extremely difficult to redirect...often ending in wasting hours if the not the rest of the day before I can reset.
+- Weak moments:
+    - Getting home after a long or stressful day at work
+    - When I've left a video game hanging, or there is one more challenge or thing I really want to accomplish that seems like I could do it quickly
+- What to do in the moment, or when approaching a weak moment:
+    - Commit to the 5 minute rule. Spend 5 minutes working on the thing I don't want to do, and tell myself I can stop if I still don't want to be doing it at the end.
+    - Write down what I want to get done on paper, make it tangible
+    - Remember that doing work first makes my play time 10x more rewarding and enjoyable
+    - Count the cost of not doing meaningful work and choosing leisure and where making this choice will leave me in relation to what I want to accomplish with my life. Likewise reflect on the satisfaction, inner-peace, and meaning in being able to go to bed knowing I did my part to take hold of the things that are important to me in life, as well as taking steps to be the best version of myself.
+    - Ask God for help with my struggle to take positive, productive steps right now. Ask him for specific, tangible help in this scenario (practicing DSB praying for yourself wisely: [http://internt.net/die2live/ChangeProcess.html](http://internt.net/die2live/ChangeProcess.html))
+# Operation Smoothe
+- Outcome: Get better at unpacking, dissecting, and dissipating sources off stress, worry, dread, doubt. Learn to better frame, think, and relate to things that stretch me, cause discomfort and make me want to escape. Especially when it comes to uncertainty at work, relationships, feeling behind at age 30.
+- Sources of stress and worry:
+    - Spiritual existencial crisis
+    - Work / Career
+    - Therapy
+    - Future with LL
+    - Relating to old christian friends / fear of what others will think of my journey
+- Ideas:
+    - look for some initial simple tidbits I can pick up online or through good youtube videos, and start building out a cheatsheet, appropriately work into my rhythm as I think makes the most sense right now.
+    - dig in deeper with some of the books (under operation soothe in my book list) and building out the cheatsheet more, 
+- Tactics:
+    - make two columns. write down what is stressing me, what is causing anxiety. identify it. then on the other side write down what i can control, what i will do to defend against it.
+# Project Plan Process
+- Determine outcome
+- Identify the "Why"
+- Craft the Roadmap / Project Pyramid
+- Build the next list in tick tick
+# Rhythm Roadmap
+- Upcoming rhythm ideas:
+    - emphasis on exercise
+    - emphasis on prayer / contemplation
+    - emphasis on no video games or no reddit

@@ -1,0 +1,5 @@
+My fears:
+- I don't know where my life is going. I have less clarity about what is my future right now than ever. Most people my age are already settled down and in routines, have careers. There is this fear of committing and then feeling like I want to make big changes and I might not be able to.
+- I'm just scared of being able to trust that another person is willing to stick with me through thick and thin. There was never a shred of doubt with Jenn early on.
+- I have to get it right. I never imagine divorce the first time around but its like I have no option to get it right. It feels like the stakes are somehow higher now. 
+- There is this tension between the fact that right now I am content being single. I don't feel like I need someone else. But I also want a family. I feel like there are these conflicting desires.

@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "meta",
+      "path": "Areas/Productivity/Workflows.md"
+    },
+    {
+      "type": "file",
+      "title": "now",
+      "path": "Areas/Productivity/Week Planner.md"
+    },
+    {
+      "type": "file",
+      "title": "Miracle Morning",
+      "path": "Archive/Archive 9-21-21/notes/Miracle Morning.md"
+    },
+    {
+      "type": "file",
+      "title": "Video Games",
+      "path": "Areas/Recreation/Video Games.md"
+    },
+    {
+      "type": "file",
+      "title": "New Hanger",
+      "path": "Archive/Archive 9-21-21/notes/New Hanger.md"
+    },
+    {
+      "type": "file",
+      "title": "Prayer List",
+      "path": "Areas/Faith/Prayer List.md"
+    },
+    {
+      "type": "file",
+      "title": "New Hanger",
+      "path": "Areas/Recreation/New Hanger.md"
+    },
+    {
+      "type": "file",
+      "title": "Lara Journal Reflection Prompts",
+      "path": "Projects/Lara Future/Lara Journal Reflection Prompts.md"
+    },
+    {
+      "type": "file",
+      "title": "Fun Activity - Hobby Ideas",
+      "path": "Areas/Recreation/Fun Activity - Hobby Ideas.md"
+    },
+    {
+      "type": "file",
+      "title": "Feature Work",
+      "path": "Areas/Work/Feature Work.md"
+    },
+    {
+      "type": "file",
+      "title": "All Hands Present Notes",
+      "path": "Areas/Work/Presentations/All Hands Present Notes.md"
+    },
+    {
+      "type": "file",
+      "title": "Standup",
+      "path": "Areas/Work/Standup.md"
+    },
+    {
+      "type": "file",
+      "title": "2k22",
+      "path": "Resources/2k22.md"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+# New Years Questionaire
+- Describe the last year in 3 words
+    - gradual, clarity, rebuild
+- What were your wins in the past year?
+    - Making some concrete steps towards emotional and spiritual health. Moving from stasis into taking some clear steps in this direction.
+    - sticking with therapy, coming to a better understanding of a lot of significant events over the last decade
+    - being more honest with myself, God and others about my struggles, doubts, pain. coming to a better undersatnding of some of the core aspects of my struggle with faith, and now being able to more clearly understand what i need to work through moving forward.
+    - re-engaging with the core aspects of faith and coming to a renewed sense of desire for God, seeing the beauty of faith and Jesus through new eyes
+    - Being more authentic and intentional in my relationship with Lara
+    - Setting a positive course towards my personal goals via a series of successes with small, consistent habits vs overly ambitious lofty goals that inevitably propagated a cycle of failure and discouragement.
+- What did you do wrong?
+    - Holding people at arms length. Holding back things like my relationship with Lara around friends out of fear of judgement. Caring too much about how others might think of me and also trying to protect some inaccurate notion of who i am.
+    - Being too scared of facing hard things head on. Being to scared of getting uncomfortable
+- What did you learn?
+    - Small incremental progress is much more effective than trying to tackle lofty over-ambitious goals overnight
+- What did you do too much of?
+    - Caring about other peoples opinions, how I appear, at the expense of my own mental / spiritual health and honest transparent relationships
+    - Running away from discomfort (and reality) via weed and video games and porn
+- What do you need to do more of?
+    - prioritize relationships, where i bring my full, transparent self. re-invest in the the old friendships. and put myself out there to find new ones. in stasis, they will be fading away. i need to prioritize and cultivate open, honest relationships. it will take sacrificing my private alone time, it will mean doing things i am not excited about. but ive gone far to long keeping personal friendships on the backburner and its time to look for quality friendships, to cultivate them, to put myself out there, to lay aside my selfish time to do build these.
+- What are your forward looking priorities?
+    - take more risks for what is righteous, what is healthy, what is most important. be willing to fail for the sake of chasing bigger things.
+    - spiritually
+        - putting myself out there, trying to join community. and doing it without hiding, but bringing my full honest self. talk to matt from christ church, sharing my situation. asking him for recommendations of couples or how to get involved.
+        - confronting the hard battles i have been scared to fight. confronting weed, confronting porn, and really taking steps of faith alongside God
+        - taking God seriously, digging into the word, and and taking steps of faith and risks to truly put it to the test
+    - lara
+        - start living the life i want to have with God and my life direction now, so that we can really begin to feel any tension points with lara now, rather than kicing those thing down the road. face it now.
+        - dont try to micromanage her experience of christianity, just do my best to boldly invite her to enter in, and to join some sort of community
+    - career
+        - probe, ask, think, ponder where i should be headed. how i use my career and my skills for god. where i ought to steer myself.
+        - stretch myself to step up, to soak up the opportunities i have to learn at yonder. to take on responsibility and to learn as much from the smart people and leaders around me
+    - personal
+        - embracing a cohesive healthy lifestyle. cooking and eating more healthy, building out my body, prioritizing natural healthy sleep
+        - getting to a healthier place with doing what i can for my hair now (within reason), but focusing on acceptance, becoming less vain, and focusing on using this to propel me to invest and become stronger in other areas of my life. considering doing something big like shaving my head or going for a super low buzzcut to see that its not that bad, to be less attached to my current hair. solidify my plan for my hair- doing what i can within reason (fin, vitamins, living cohesive healthy lifestyle, cut out weed), checkin points (document my progressions, include things like wet hair, looking more at diffuse thinning on top as well), consider riding out fin for a full 2 years, and then possibly considering duta if i am still noticeably losing ground.
+    - relationships
+        - be the initiator in a couple key friendships i want to invest. both a mix of re-kindling old friendships, and exploring and building new ones. set aside more of my alone time in order to do this for the sake of relationships and more full life.
+- What are your current goals?
+    - spiritual / personal: cut back weed to weekend only at a bare minimum. possibly even once every other week or monthly treat. remove it from being part of my daily routine.
+    - spiritual: join some sort of christian community. start going to virtual christ church services.
+    - lara: press into the life I feel God is calling me to, figure out if she is the one i want to marry this year
+    - relationships: be a good friend. be the kind of friend i want to have. have a stronger core of friendships i will invest and maintain in
+    - personal: get cohesively healthy
+    - personal: accept my hairloss, and release its hold on me as a stressor and source of anxiety and fear. get over the fear of shaving my head by shaving it once this year.
+- What habits do you need to work on?
+    - cooking, eating, lifting for bulk habits
+    - reduction habits around weed, porn, video games
+    - increased time with God, reading and wrestling with scripture
+    - increased career development (growing in my craft), career direction (working and exploring where i am going) habits
+- What is one thing you would like to change about yourself?
+    - be someone who embraces challenge and discomfort in order to achieve my goals
+- If I could accomplish one big thing in 2021, what would it be?
+    - figure out my future with lara
+- What theme do you want the next year to take?
+    - the hard things are better than the easy path
+# Other new years goals reflections / goals / habits:
+- Stop procrastinating about the hard things that I know I need to do in order to move towards being the person God wants me to be, towards living the kind of life that I won't regret. Time is precious and my life is moving faster and faster. This is the time to take those big steps. Ask God where I ought to take those steps. And then do it with courage. With God. With addiction. With Lara. With community and relationships. With a career attuned to boldly expanding God's kingdom. With my health. Have courage, stop tippy toeing around the hard things. This last year did have a lot of breathing room and quiet and rest. Now its time to buckle down and run hard. I want to be tired in a good way at the end of next year, knowing I gave it my all, despite any failurer or dissapointments. Take charge of what is in my court. Don't be afraid of risks and putting myself out there.
+- Habits towards Goals: (I should be slowly stepping up to these once I have completed the course with my current habits. increasing the amounts of time should be seen and treated as a new habit)
+    - I need to actually dig more seriously into personally connecting with God and scripture. 5 minutes of prayer isn't going to cut it. I should add also spending time in the Bible, seeing for myself how God wants to speak to me through it
+    - I want to step up the amount of time i am studying per night to ideally 30 min a day.
+    - I want to significantly scale back weed consumption
+    - I want to bulk up and build out my frame, and be cohesively healthier in eating and lifestyle.
+- Figure out where I want to take my career, what God's calling is for my career. Think, pray, explore, wait on God for this. But be diligent in dreaming and being intentional. Be working on a clearer 1-3-5 year plan.
+- Take the quarantined chance to shave my head this year, get over the fear of losing my hair. Commit to taking a healthier approach to this. Doing what I can but also taking steps to make this something that doesn’t affect my mental health and stress levels and worry so much. This is too toxic for me right now, I need to change this.

@@ -1,0 +1,8 @@
+Dustin:
+- hey dustin, this is tim. hope all is well man. have a question for you, unfortunately i think it lara and i won't be able to be at the service in person for the next two weeks so figured i would give you a call in the meantime. no rush- feel free to give me a call back when you have a couple minutes. take care man.
+- wanted to reach out because lara and i will likely not be able to be in person at church for the next two weeks. in an ideal scenario we would love to ask you this in person. but as we think about our wedding and the people we would be honored to have around us on that day, her and i are really appreciative of the connection we have built with you and christina over the last months. and we would be honored if you would consider officiating our wedding. when we starting thinking about our wedding, you were the first person that was immediately both of our first choices, and it would be really meaningful to both of us. you don't need to give us an answer now. but wanted to plant the seed. if there are time considerations, we are happy to keep you posted as we look to lock in a date over the next couple weeks.
+
+
+Jeremy:
+- reach out about getting beers with just the two of us. tell him i would love to make th trip out to taylor or georgetown to grab a beer and catch up. have something specific i would love to run past you.
+- looking back at impactful and important relationships over the last decade and a half, you've played an important part in my life man. even though we haven't seen each other face to face much at all over the last years, you still mean a lot to me man. it meant a lot to have you as part of my wedding the first time around, and it would mean a lot if you would be one of my groomsmen again.

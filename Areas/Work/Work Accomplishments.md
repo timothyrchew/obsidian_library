@@ -1,0 +1,2 @@
+- Added a new layer of frontend monitoring via DD RUM
+- Spearheaded improved frontend monitoring pipeline utilizing DD dashboards, RUM sessions, updated monitors connected to PD (see my talk notes for more details)

@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "0a9dcf5132b9dd71",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f4609b0de9bba0a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Areas/Finance/Credit cards + Points.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "72ce5501715d1bab",
+    "type": "split",
+    "children": [
+      {
+        "id": "43843dc328893b0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1232d244914b13ec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7d691453ebf9d5b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\"digital reminders \"",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2a919f178bac1d08",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "33b06bc8daa4dcfc",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 370.5
+  },
+  "right": {
+    "id": "c44d36d3fc8a84d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "a85bb2247df2b0dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2e9997c9f353ea0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Areas/Finance/Credit cards + Points.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4f4aaeccc44eb5ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Areas/Finance/Credit cards + Points.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7f4609b0de9bba0a",
+  "lastOpenFiles": [
+    "Areas/Finance/Credit cards + Points.md",
+    "Projects/Direction and Purpose/Vision refocus March 2022.md",
+    "Areas/Productivity/Workflows.md",
+    "Projects/Direction and Purpose/lifeVisionDirection.md",
+    "Areas/Recreation/Video Games.md",
+    "Areas/Recreation/New Hanger.md",
+    "Areas/Recreation/Fun Activity - Hobby Ideas.md",
+    "Areas/Work/Work Mindset Reset March 2022.md",
+    "Areas/Work/Daily Work Reflection.md",
+    "Projects/Wedding Planning/Asking Groomsmen.md"
+  ]
+}

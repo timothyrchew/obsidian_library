@@ -1,0 +1,122 @@
+{
+  "main": {
+    "id": "0a9dcf5132b9dd71",
+    "type": "split",
+    "children": [
+      {
+        "id": "286bdb664947d860",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Areas/Finance/Credit cards + Points.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "72ce5501715d1bab",
+    "type": "split",
+    "children": [
+      {
+        "id": "43843dc328893b0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1232d244914b13ec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7d691453ebf9d5b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "proposal",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2a919f178bac1d08",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c44d36d3fc8a84d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "a85bb2247df2b0dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2e9997c9f353ea0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Areas/Finance/Credit cards + Points.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4f4aaeccc44eb5ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Areas/Finance/Credit cards + Points.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "286bdb664947d860",
+  "lastOpenFiles": [
+    "Areas/Finance/Credit cards + Points.md",
+    "Areas/Recreation/Stardew.md",
+    "Resources/2k22.md",
+    "Projects/Lara Future/Vday card message.md",
+    "Archive/Archive 9-21-21/notes/Food Options.md",
+    "Areas/Productivity/Workflows.md",
+    "Areas/Recreation/New Hanger.md",
+    "Projects/Lara Future/Proposal Ideas.md",
+    "Areas/Work/Feature/Pilot Program - No Code Feature.md",
+    "Projects/Lara Future/Talking to her parents.md"
+  ]
+}

@@ -1,0 +1,432 @@
+# The Fundamentals
+- chapter 1 (surprising power of atomic habits)
+    - forget about goals, focus on systems instead
+- chapter 2 (how your habits shape your identity)
+    - three levels of behavior change
+        - change your outcomes
+        - change your processes
+        - change our identity
+        - most people use outcomes focused approach. but true behavior change is identity change. you may start a habit because of motivation, but the only reason you'lls tick with one is if it becomes part of your identity
+            - the goal is not to read a book, its to become a reader.
+    - two step process to changing your identity. identity change is the north star of habit change.
+        - 1. decide what kind of person you want to be
+        - 2. prove it to yourself with small wins (every action is a vote for the type of person you want to be)
+    - building better habits isn't about littering your day wiht life hacks. its not about acheiving some kind of external success. its about becoming someone. ultimatley they mater because they help you become the type of person you wish to be.
+- chapter 3 (how to build better habits in 4 simple steps)
+    - habits are mental shortcuts learned from experience. habit formation is incredibly useful because the conscious mind is the bottleneck of the brain. the ultimate purpose of habits is to solve the problems of life with as little energy and effort as possible
+    - any habits can be broken down into feedback loop with 4 steps: cue, craving, response, reward.
+    - Four Laws of Behavior Change- (1) make it obvious (2) make it attractive (3) make it easy (4) make it satisfying.
+        - or conversely- make it invisible, make it unattractive, make it difficult, make it unsatisfying
+# 1st Law: Make it obvious
+- chapter 4 (The man who didn't look right)
+    - with enough practice, your brain will pick up on the cues that predict certain outcomes without consiously thinking about it.
+    - once our habits become automatic, we stop paying attention to what we are doing.
+    - pointing and calling raises your level of awareness. you need to be aware of your habits before you can change them.
+    - the habit scorecard is a simple exercise you can yuse to become more aware of your behavior
+- chapter 5 (the best way to start a new habit)
+    - MAKE IT OBVIOUS. people who make a specific plan for when are where they will perform a habit are more likely to follow through. many people think they lakc motivation when what they really lack is clarity.
+    - The two most common cues are time and location. creating an implementation intention is a strategy you can use to pair a new habit with a specific time and location
+        - once implementation has been set, you don't have to wait for inspiration to strike. when the moment of action occurs, there is no need to make a decision. simply follow your predetermined plan.
+        - I will [behavior] at [time] in [location]. I will meditate for one minute at 7am in my kitchen. I will exercise for one hour at 5pm in my local gym.
+        - there is an advantage to starting the first day of the week, month, or year. people are more likely to take action at those times because hope is usually higher. if we have hope, we ahve reason to take action. a fresh start feels motivating.
+    - Habit stacking is a strategy you can use to pair a new habit with a current habbit
+        - After [current habit] I will [new habit]
+        - Morning example
+            - After I pour my cup of coffee each morning, I will meditate for one minute.
+            - After I meditate for one minute, I will write my todo list for the day.
+            - After I write my todo list for the day, I will immediately begin my first task
+        - Evening example
+            - after i finish eating dinner, i will put my plate directly in the dishwasher
+            - after i put my dish away, i will immediately wipe down the counter
+            - after i wipe down the counter, i will set out my coffee mug for tomorrow morning
+        - secret to creating a successful habit stack is selecting the right cue to kick things off. one way is to start by brainstorming list of current habits in two columns.
+            - first col- habits i do each day wihtout fail:
+                - get out of bed
+                - take a shower
+                - brush my teeth
+                - make coffee
+                - eat breakfast 
+                - start work day
+                - eat lunch
+                - end work day
+                - sit down to dinner
+                - turn off the lights
+                - get into bed
+            - second col- things that happen to me:
+                - the sun risesd
+                - i get a text message
+                - the song i listen to ends
+                - the sun sets
+            - armed with these two lists, you can begin seraching for the best place to layer your new habit into your lifestyle.
+- chapter 6 (motivation is overrated; environment often matters more)
+    - small changes in context can lead to large changes in behavior over time
+    - Every habit is initiated by a cue. We are more likely to notice cues that stand out.
+    - Make the cues of good habits obvious in your environment
+        - environment design is powerful not only because it influences how we engage with the world, but also because we rarely do it. most people live in a world others have created for them.
+        - you can alter the spaces where you live and work to increase your exposure to the positive cues and reduce your exposure to the negative ones.
+        - whenever possible, avoid mixing the context of one habit with another. create a separate space for work, study, exercise, entertainment, cooking. "one space, one use". if space is limited, divide your room into activity zones: a chair for reading, a desk for writing, a table for eating. you can do the same with digital spaces. a computer just for writing, tablet only for reading, phone only for social media and texting. every habit should have a home.
+        - If you want to remember to take your medication each night, put your pill bottle directly next to the faucet on the bathroom counter.
+        - If you want to practice guitar more frequently, place your guitar stand in the middle of the living room.
+        - If you want to remember to send more thank-you notes, keep a stack of stationery on your desk.
+        - If you want to drink more water, fill up a few water bottles each morning and place them in common locations around the house.
+    - Gradually, your habits become associated not with a single trigger but with the entire context surrounding the behavior. The context becomes the cue.
+    - It is easier to build new habits in a new envirnment because you are not fighting against old cues.
+- chapter 7 (the secret to self-control)
+    - the inversion of the 1st Law of Behavior Change is to make it invisible
+    - once a habit is formed, it is unlikely to be forgotten
+        - bad habits are autocatalytic: the process feeds itself. they foster the feelings they try to numb. you feel bad, so you play video games. because i play video games, i feel bad. because i feel bad, i smoke weed. its a downward spiral, a runaway train of bad habits.
+        - this is "cue-induced wanting": an external trigger causing a compulsive craving to repeat a bad habit. once you notice something you being to want it. once you break a habit, you are uinlikely to forget it. once the mental g4rooves of habit have been carved into your brain, they are nearly impossible to remove entirely- even if they go unsued for quite a while. that means that simply resisting temptation is an ineffecitve strategy. it takes too much energy. in the short run, you can choose to overpower temptation. in the long-run, we bvecome a product of the environment we live in. a more reliable apporach is to cut the bad habits off at the source.
+    - people with high self-control tend to spend less time in tempting situations. its easier to avoid temptation than resist it.
+        - "disciplined" people are better at structuring their lives in a way that does not require heoric willpower and self-control. in other words, they spend less time in tempting situations. its easier to practice self-restraint when you don't have to use it very often.
+    - one of the most practical ways to eliminate a bad habit is to reduce exposure to the cue that causes it
+        - If you can’t seem to get any work done, leave your phone in another room for a few hours.
+        - If you’re continually feeling like you’re not enough, stop following social media accounts that trigger jealousy and envy.
+        - If you’re wasting too much time watching television, move the TV out of the bedroom.
+        - If you’re spending too much money on electronics, quit reading reviews of the latest tech gear.
+        - If you’re playing too many video games, unplug the console and put it in a closet after each use.
+    - self-control is a short-term strategy, not a long-term one
+# 2nd Law: Make it Attractive
+- chapter 8 (how to make a habit irresistible)
+    - 2nd Law of Behavior Change is make it attractive
+    - The more attractice an opportunity is, the more likely it is to become habit forming
+    - Habits are a dopamine driven feedback loop. When dopamine rises, so does our motivation to act
+    - It is the anticipation of a reward, not the fullfillment of it, that gets us to take the action. The greater the anticipation, the greater the dopamine spike
+    - Temptation bundling is one way to make your habits more attractice. The strategy is to pari an action you want to do with an action you need to do.
+        - After [current habit], I will [habit i need]. After [habit i need], I will [habit i want]
+        - After I get my morning coffee, I will say one thing I'm grateful for that happened yesterday (need). After I say one thing I'm grateful for, I will read the news (want).
+        - After I get back from my lunch break, I will call three potential clients (need). After I call three potential clients, I will check ESPN (want).
+        - After I pull out my phone, I will do ten burpees (need). After I do ten burpees, I will check Facebook (want).
+- chapter 9 (the role of family and friends in shaping your habits)
+    - The culture we live in determines which behaviors are attractive to us.
+    - We tend to adopt habits that are praised and approved of by our culture because we have a strong desire to fit in and belong to the tribe.
+    - We tend to imitate the habits of three social groups: the close (family and friends), the many (the tribe), and the powerful (those with status and prestige).
+    - One of the most effective things you can do to build better habits is to join a culture where (1) your desired behavior is the normal behavior and (2) you already have something in common with the group.
+    - The normal behavior of the tribe often overpowers the desired behavior of the individual. Most days, we’d rather be wrong with the crowd than be right by ourselves.
+    - If a behavior can get us approval, respect, and praise, we find it attractive.
+- chapter 10 (how to find and fix the causes of your bad habits)
+    - the inversion of the 2nd Law of Behavior Change is to make it unattractive
+    - every behavior has a surface level craving and a deeper underlying motive
+        - underlying motives:
+            - conserve energy
+            - obtain food and water
+            - find love and reproduce
+            - connect and bond with others
+            - win social acceptance and approval
+            - reduce uncertainty
+            - acheive status and prestige
+        - modern day versions:
+            - Find love and reproduce = using Tinder
+            - Connect and bond with others = browsing Facebook
+            - Win social acceptance and approval = posting on Instagram
+            - Reduce uncertainty = searching on Google
+            - Achieve status and prestige = playing video games
+    - your habits are modern day solutions to ancient desires
+        - new versions of old vices. the underlying motives behind human behavior remain the same.
+    - the cause of your habits is actually the prediction that precedes them. the prediction leads to a feeling.
+        - you see a cue, categorize it based on past experience, and determine the appropriate response. our behavior is heavily dependent on how we interpret the events that happen to us, not necessarily the objective reality of the events themselves. two people can look at a cigarette, and one feels the urge to smoke while the other is repulsed by the smell.
+    - highlight the benefits of avoiding a bad habit to make it seem unattractive
+        - tims note- unfortunately he really doesn't dig into this within the chapter. how do i "highlight" the benefits?
+    - you can make hard habits more attractive if you can learn to associate them with a positive experience. sometimes all you need is a slight mind set shift.
+        - Exercise. Many people associate exercise with being a challenging task that drains energy and wears you down. You can just as easily view it as a way to develop skills and build you up. Instead of telling yourself “I need to go run in the morning,” say “It’s time to build endurance and get fast.”
+        - Finance. Saving money is often associated with sacrifice. However, you can associate it with freedom rather than limitation if you realize one simple truth: living below your current means increases your future means. The money you save this month increases your purchasing power next month.
+        - Meditation. Anyone who has tried meditation for more than three seconds knows how frustrating it can be when the next distraction inevitably pops into your mind. You can transform frustration into delight when you realize that each interruption gives you a chance to practice returning to your breath. Distraction is a good thing because you need distractions to practice meditation.
+        - Pregame jitters. Many people feel anxious before delivering a big presentation or competing in an important event. They experience quicker breathing, a faster heart rate, heightened arousal. If we interpret these feelings negatively, then we feel threatened and tense up. If we interpret these feelings positively, then we can respond with fluidity and grace. You can reframe “I am nervous” to “I am excited and I’m getting an adrenaline rush to help me concentrate.”
+    - habits are attractive when we associate them with positive feelings and unattractice when we associate them with negative feelings. create a motivation ritual by doing something you enjoy immediately before a difficult habit.
+        - story of a writer who noticed concentration and focus goes up by just putting headphones on while writing. he didn't even have to play any music, but he had conditioned himself over time to associate the two and the headphones became an act that helped propel him into the work.
+        - athlete who adopts a stretching routine before a game. its a 10 minute sequence, and was done the same way every single time. while it warmed them up to play, more importantly it put them in the right mental state for the game. the routine became associated with feeling competitive and focused. even when they weren't motivated beforehand, by the time they were done, they were in "game mode"
+# 3rd Law: Make it Easy
+- chapter 11 (walk slowly, but never backward)
+    - 3rd law of behavior change is to make it easy
+    - the most effective form of learning is practice, not planning
+        - This is so key for me to grasp. Sometimes we actually need to plan or learn more. But more often than not, we can preocuppy ourselves with planning, research, theorizing because its a way to feel like we are making progress without running the risk of failure. so we slip into "motion" without taking action: we want to delay failure. Motion makes me feel like I am getting things done, but really Im just preparing to get them done, and the prep can become a form of procrastination.
+        - The antidote to this instinct? The key is to start with repetition, not perfection. I don't need to amp out every feature or a new habit. I just need to practice it.
+    - focus on taking action, not being in motion
+    - habit formation is the process by which a behavior becomes progressively more automatic through repetition
+        - scientists observed that the level of automaticity for a habit is based on frequency, not time (or duration of time spent doing the activity)
+    - the amount of time you have been performing a habit is not as important as the number of times you have performed it
+- chapter 12 (the law of least effort)
+    - human behavior follows the law of least effort. we will naturally gravitate towards the option that requires the least amount of work
+        - every habit is just an obstacle to getting what i really want. the greater the obstacle, the more friction there is between me and my desired end state. this is why its crucial to make them so easy that ill do them even when i don't feel like it.
+        - certainly we are capable of doing very hard things. the problem is that some days you feel like doing the hard work and somedays you feel like giving in. on the tough days, its crucial to have as many things working in your favor as possible so taht you can overcome the challenges life naturally throws your way. the less friction you face, the easier it is for your styronger self to emerge. make it as easy as possible in the moment to do things that payoff in the long run.
+    - create an environment where doing the right thing is as easy as possible
+    - reduce friction associated with good behaviors. when friction is low, habits are easy.
+        - analogy of holding a garden hose that is bent in the middle. if you want to increase the rate, you can crank up the valve and force water out. or you can simply remove the bend in the hose. this is the difference between relying on motivation vs reducing the friction around good habits.
+        - one of the best ways to reduce friction is from environment design (from chap 6).
+        - when deciding where to practice a new habit, choose a place that is already along the path of your daily routine.
+        - addition by subtraction: japanese manufacturers looking for every point of friction in the process and eliminating it. meal delivery services reduce friction of shopping for groceries. dating apps reduce friction of meeting others. ride sharing reduces friction of getting accross town.
+    - increase the friction associated with bad behaviors. when friction is high, habits are difficult.
+    - prime your environment to make future actions easier.
+        - Nuckols dialed in his cleaning habits by following a strategy he refers to as “resetting the room.” For instance, when he finishes watching television, he places the remote back on the TV stand, arranges the pillows on the couch, and folds the blanket. When he leaves his car, he throws any trash away. Whenever he takes a shower, he wipes down the toilet while the shower is warming up. (As he notes, the “perfect time to clean the toilet is right before you wash yourself in the shower anyway.”) The purpose of resetting each room is not simply to clean up after the last action, but to prepare for the next action. “When I walk into a room everything is in its right place,” Nuckols wrote. “Because I do this every day in every room, stuff always stays in good shape...People think I work hard but I’m actually really lazy. I’m just proactively lazy. It gives you so much time back.”
+        - Want to draw more? Put your pencils, pens, notebooks, and drawing tools on top of your desk, within easy reach.
+        - Want to exercise? Set out your workout clothes, shoes, gym bag, and water bottle ahead of time.
+        - Want to improve your diet? Chop up a ton of fruits and vegetables on weekends and pack them in containers, so you have easy access to healthy, ready-to-eat options during the week.
+        - Conversely for bad habits:
+            - watching too much TV: unplug it after each use. only plug it back in if you can say out loud the name of the program you want to watch. this can create just enough friction to prevent mindless viewing.
+            - to take it a step futher, unplug TV and take batteries out of remote. Or if im really hardcore, move the TV out of the living room and put it into the closet after each use. You can be sure you'll only take it out when you REALLY want ot watch something. The greater the friction, the less likely the habit.
+        - it is remarkable how little firction is required to prevent unwanted behavior:
+            - hide beer in the back of the fridge and you drink less.
+            - delete social media apps from your phone and it can be weeks before you redownload them and log back in
+            - these are unlikely to curb true addiction, but for many it can be the difference between sticking with a good habit and sliding into a bad one.
+        - for every behavior change, ask the question "how can we design a world where its easy to do whats right?"
+- chapter 13 (how to stop procrastinating by using the two minute rule)
+    - Habits can be completed in a few seconds but continue to impact your behavior for minutes or hours afterward.
+        - habits are like the entrance ramp to a highway. they lead you down a path and before you know it, youre speeding towards the next behavior. it seems to be easier to continue what you are already doing than to start doing something different. you check your phone for "just a second" and soon you have spent twenty minutes staring at the screen.
+        - author example: each evening there is a tiny moment, usually around 5:15, that shapes the rest of his night. either changing into workout clothes or putting on netflix and ordering takeout. if he changes into workout clothes, he knows the workout will happen. everything that follows, driving to the gym, deciding which exercises to do, stepping under teh bar, is easy to do after the first step.
+    - Many habits occur at decisive moments—choices that are like a fork in the road—and either send you in the direction of a productive day or an unproductive one.
+        - every day a handful of moments deliver outsized impact. the moment you decide between ordering takeout or cooking dinner. the moment you choose between driving your car or riding your bike. the moment you decide between starting your homework or grabbing your video game controller.
+        - each day is made up of many moments, but it is really a few habitual choices that determine the path you take. these little choices stack up, each one setting the trajectory for hwo you spend the next chunk of time.
+    - The Two-Minute Rule states, “When you start a new habit, it should take less than two minutes to do.”
+        - nearly any habit can be scaled down to a two minute version:
+            - “Read before bed each night” becomes “Read one page.”
+            - “Do thirty minutes of yoga” becomes “Take out my yoga mat.”
+            - “Study for class” becomes “Open my notes.”
+            - “Fold the laundry” becomes “Fold one pair of socks.”
+            - “Run three miles” becomes “Tie my running shoes.”
+        - a new habit should nto feel like a challenge. the actions that follow can be challenging, but the first two minutes should be easy. what you want is a "gateway" habit that naturally leads you down a more productive path.
+        - map out your goals on a scale from "very easy" to "very hard". your goal might be to run a marathon,b ut your gateway habit is put on your running shoes.
+        - the point is to master the habit of showing up. a habit must be established before it can be improved upon. if you can't master the art of shwoing up, you have little hope of mastering the finer details.
+    - The more you ritualize the beginning of a process, the more likely it becomes that you can slip into the state of deep focus that is required to do great things.
+        - after you master showing up, the first two minutes simply become a ritual at the beginning of a larger routine. by developing a consistent power down habit, you make it easier to go to bed at a reasonable time each night. you may not be able to automate the whole process, but you can make the first action mindless.
+        - strategies like this also work because they reinforce the identityu you want to build.
+    - Standardize before you optimize. You can’t improve a habit that doesn’t exist.
+        - at some point, you've established the haabit and youre showing up every day. you can combine the two minute rule with a technique we call habit shaping, to scale your habit back up towards your ultimate goal. start by mastering the smallest version. then advance to an intermediate step and repeat the process-- focusing on just the first 2 minutes and mastering that stage before moving on to the next level. eventually you'll end up with the habit you had originally hoped to build while still keeping your focus where it should be- the first 2 minutes.
+            - becoming an early riser
+                - Phase 1: Be home by 10 p.m. every night.
+                - Phase 2: Have all devices (TV, phone, etc.) turned off by 10 p.m. every night.
+                - Phase 3: Be in bed by 10 p.m. every night (reading a book, talking with your partner).
+                - Phase 4: Lights off by 10 p.m. every night.
+                - Phase 5: Wake up at 6 a.m. every day.
+            - becoming vegan
+                - Phase 1: Start eating vegetables at each meal.
+                - Phase 2: Stop eating animals with four legs (cow, pig, lamb, etc.).
+                - Phase 3: Stop eating animals with two legs (chicken, turkey, etc.).
+                - Phase 4: Stop eating animals with no legs (fish, clams, scallops, etc.).
+                - Phase 5: Stop eating all animal products (eggs, milk, cheese).
+            - starting to exercise
+                - Phase 1: Change into workout clothes.
+                - Phase 2: Step out the door (try taking a walk).
+                - Phase 3: Drive to the gym, exercise for five minutes, and leave.
+                - Phase 4: Exercise for fifteen minutes at least once per week.
+                - Phase 5: Exercise three times per week.
+- chapter 14 (how to make the good habits inevitable and the bad habits impossible)
+    - The inversion of the 3rd Law of Behavior Change is make it difficult.
+    - A commitment device is a choice you make in the present that locks in better behavior in the future.
+        - putting a router on an outlet timer that turns off at 10pm.
+        - change the task such that it requires more work to get out of the good habit than to get started on it.
+        - if you feel motivated to get in shape, schedule a yoga session and pay ahead of time. if you are excited about the business you want to start, email an entrepreneur you respect and set up a consulting call. when time comes to act, the only way to bail is to cancel, which requires time and effort.
+    - The ultimate way to lock in future behavior is to automate your habits.
+        - see chapter for lots of good examples of this.
+    - Onetime choices—like buying a better mattress or enrolling in an automatic savings plan—are single actions that automate your future habits and deliver increasing returns over time.
+        - technology creates a level of convenience that enables you to act on your smallest whims and desires. when i feel bored, i reach for my phone. its easy to write off these minor distraction sas just taking a break. but over time they accumulate into a serious issue. the constant tug of just one more minute can prevent me from doing anything of consequence.
+        - authors example of having his assistant reset all his social media passwords on each monday. on friday, she would send him all the passwords and he could enjoy them over the weekend. he was surprised how quickly he adapted. he realized after one week he didn't need it each day. after he removed the mental candy from his environment, it became much easier to each the healthy stuff.
+    - Using technology to automate your habits is the most reliable and effective way to guarantee the right behavior.
+- chapter 15 (the cardinal rule of behavior change)
+    - the 4th law of behavior change is make it satisfying
+    - we are more likely to repeat a behavior when the experience is satisfying
+        - you learn what to do in the future based on what you were rewarded for doing (or punished for doing) in the past. positive emotions cultivate habits. negative emotions detroy them.
+    - the human brain evolved to prioritize immediate rewards over delayed rewards
+        - our brains did not evolve for a life in a modern, delayed-return environment.
+        - the way your brain evaluates rewards is inconsistent across time. you value the present more than the future. you value the present more than the future, this has served us well because a reward that is cetian right now is typically worth more than one that is merely possible in the future. but occasionally, our bias towards instant gratification causes problems.
+        - “It almost always happens that when the immediate consequence is favorable, the later consequences are disastrous, and vice versa.... Often, the sweeter the first fruit of a habit, the more bitter are its later fruits.”
+        - the cost of your good habits are in the present, the cost of your bad habits are in the future. because of how we are wired, most people will spend all day chasing quick hits of satisfaction. the road less traveled is the road of delayed gratification.
+        - most people know that delayed gratification is the wise approach. they want the benefits of good habits. but there outcomes are seldom top of mind at the decisive moment. thankfully its posible to train yourself to delay gratification, but you need to work with the grain of human nature, not against it. **the best way to do this is to add a little bit of immediate pleasure to the habits that pay off in the long run and a little bit of immediate pain to the ones that dont**
+    - the cardinal rule of behavior change: what is immediately rewarded is repeated. what is immediately punished is avoided.
+    - to get a habit to stick you need to feel immediately successful-- even if its in a small way.
+        - the feeling of success is a signal that your habit paid off and that the work was worth the effort
+        - good habits (like working out) can take months beofre the benefits start to really show and it becomes easier for its own sake. this is why immediate rewrads are essential- they keep you exciting while the delayed rewards accumulate in the background.
+        - for new good habits you want to do, tie the habit to an immedaite reward which makes it satisfying when you finish.
+        - for habits you want to stop, it can be hard to feel satisfied when there is no action in the first place (ie no rivolous purchases or no alcohol this month). all you are doing is resisting temptatin and there isn't much satisfying about that.
+            - try turning it on its head. make the avoidance visible. open a savings account and label it "leather jacket", when you pass on a purchase, put the same ammount of money into the account. create a loyalty rewards program for youself. the immediate reward of seeing yourself save money toward the leather jacket feels a lot better than being deprived. you make it satisfying to do nothing.
+            - however the selected short term reward should reinforce your new identity rather than conflict wiht it. buying a new jacket is fine if you are tyring to lose weight or read more books, but not great if you are trying to budget and save money. instead- take a bubble bath or go on a leisurley walk are good examples of rewarding yourself with free time, which aligns with ultimatle goal of more freedom and financial independence.
+            - if habit is exercise, doesn't make sense to reward yourself with ice cream. instread reward with a massage- in line with identify of taking care of your body.
+        - eventually, the instrinsic rewards like a better mood, more energy, and reduced stress kick in, and you'll be less concerned with chasing the secondary rewrad. the identity itself becomes the reinforcer. youll do it because its hwo you are and it feels good to be you. the more its part of your life, the less you need outside encouragement to follow through. incentives can start a habit, identity sustains it. but it takes time for the evidence to acculumate and the identity to emerge.
+    - the first three laws of behavior change-- make it obvious, make it attractive, and make it easy-- increase the odds othat a behavior willb e performed this time. the fourth law of behavior change-- make it satisfying-- increases the odds that a behavior will be repeated next time.
+- chapter 16 (how to stick with good habits every day)
+    - One of the most satisfying feelings is the feeling of making progress.
+        - visual measure provide clear evidence of your progress. they provide a little bit of immediate satisfaction to any activity.
+    - A habit tracker is a simple way to measure whether you did a habit—like marking an X on a calendar.
+    - Habit trackers and other visual forms of measurement can make your habits satisfying by providing clear evidence of your progress.
+        - After I hang up the phone from a sales call, I will move one paper clip over.
+        - After I finish each set at the gym, I will record it in my workout journal.
+        - After I put my plate in the dishwasher, I will write down what I ate.
+    - Don’t break the chain. Try to keep your habit streak alive.
+    - Never miss twice. If you miss one day, try to get back on track as quickly as possible.
+        - no matter how consistent, life will interrupt you at some point. perfection is not possible. more important than any measurement, is having a plan for when you habits slide off track.
+        - simple rule: never miss twice. the first mistake is never the one that ruins you. it is the spiral of repeated mistakes that follow. missing twice is the start of a new habit.
+        - when successful people fail, they rebound quickly.
+        - don't fall into all or nothing mindset. problem is not slipping up, its thinking if you can't do it perfectly then you shouldnt do it at all.
+        - "bad" days are oftent he most important ones. sluggish workout, bad moods, maintain the compound gains you accrued from pervious good days. simpley doing something is huge. don't put up a zero. don't let losses eat into your compounding.
+        - its not always what happens during the workout. its about being the type of person who doesn't miss workouts.
+    - Just because you can measure something doesn’t mean it’s the most important thing.
+        - Goodharts Law: "When a measure becomes a target, it ceases to be a good measure".
+        - keep habit tracking in its proper place. it can feel satisfying to record a habit and track progress, but measurement is not the only thing that matters. furthermore, there are many ways to measure progress, and sometimes it helps to shift your progress to something entirely different.
+        - "non scale" victories can be effective for weightloss. if you are not feeling motivated by the number on the scale, perhaps its time to focus on a different measurement with more signals of progress.
+- chapter 17 (how an accountability partner can change everything)
+    - The inversion of the 4th Law of Behavior Change is make it unsatisfying.
+    - We are less likely to repeat a bad habit if it is painful or unsatisfying.
+        - propsal with the nuclear codes- put them in a capsule and surgically implant them next to the heart of a volunteer. the volunteer would carry a big butcher knife. in order to get the nuclear launch code to kill millions, the president would have to spill blood and take an innocent life on the white house carpet.
+        - if a failure is painful, it gets fixed. if a failure is relatively painless, it gets ignored. the more immediate and more costly a mistake is, the faster you will learn from it. when consequences are severe, people learn quickly.
+        - if you want to prevent bad habits and eliminate unhealthy behavior, adding an instant cost to the action is a great way to reduce their odds. we repeat bad habits because they serve us in some way, and that makes them hard to abandon. increase the speed of the punishment associated with the bahavior.
+            - to be productive, the post of procrastination must be greater than the cost of action.
+            - to be healthy, the cost of laziness must be greater than the cost of exercise.
+            - getting fined for smoking in a resaturant or failing to recycle adds consequence to an action.
+        - the more local, tangible, concrete, and immediate the consequence, the more likely it is to influence individual behavior. the more global, intangible, vague, and delayed the consequence, the less likely it is to influence individual behavior. 
+    - An accountability partner can create an immediate cost to inaction. We care deeply about what others think of us, and we do not want others to have a lesser opinion of us.
+        - bryan wants to lose weight. he sets his tangible goals for each quarter of the year. he sets a consequence if he fails on any of the habits for each quarter, giving his trainer 200 bucks and commiting to dress up every workday of the week and sundays. he signs a contract with his wife and his trainers. each quarter the consequences go up.
+        - margaret cho does the "song a day" challenge with a friend. knowing someone is watching is a powerful motivator. if you fail, pehaps they will see you as untrustworthy or lazy. suddently you are not only failing to uhold your promises to yourself, but also to others.
+        - automating accountability- thomas frank wakes up a 5:55 each morning. if he doesn't, he has a tweet automatically scheduled that says "its 6:10 and I'm not up because I'm lazy! Reply to this for $5 via Paypal".
+    - A habit contract can be used to add a social cost to any behavior. It makes the costs of violating your promises public and painful.
+    - Knowing that someone else is watching you can be a powerful motivator.
+        - we are always trying to present your best selves to the world. we care about the opinions of those around us because it helps if others like us. 
+- chapter 18 (the truth about talent (when genes matter and when they dont')
+    - The secret to maximizing your odds of success is to choose the right field of competition.
+    - Pick the right habit and progress is easy. Pick the wrong habit and life is a struggle.
+        - if you prefer rock climbing or cycling or rowing, shape your exercise habits around that rather than lifting big weight in order to get ripped.
+        - if you prefer low-fat diet while friend prefers low-carb diet, pick the one i prefer
+        - if i want to read more, don't be embarassed if i prefer steamy romance over nonfiction. read whatever fascinates me.
+        - you don't have to build habits people tell me to build, pick the ones that best suit me not the most popular ones.
+    - Genes cannot be easily changed, which means they provide a powerful advantage in favorable circumstances and a serious disadvantage in unfavorable circumstances.
+    - Habits are easier when they align with your natural abilities. Choose the habits that best suit you.
+    - Play a game that favors your strengths. If you can’t find a game that favors you, create one.
+        - pick the right habits and progress is easy. pick the wrong ones and life is a struggle. follow the 3rd law- make it easy.
+        - how to do this? "explore/exploit trade-off". when beginning a new activity there should be a period of exploration. the goal is try out as many possibilities, research a broad range of ideas, and cast a wide net. during this period shift focus to the best solution i have found, but keep experimenting occasionally. the proper balance depends on whether im winning or losing. if im winning, i should exploit, exploit, exploit. if im losing, i continue to explore, explore, explore. in the long term it is probably most effective to spend about 80 to 90 percent to work on the currnet most effective strategy, and then to keep exploring with the remaining 10 to 20 percent.
+        - questions to ask:
+            - waht feels like fun to me, but work to others?
+            - what makes me lose track of time?
+            - where do i get greater returns than the average person?
+            - what comes naturally to me?
+        - dilbert creator- he can draw better than most, but he is hardly an artist. hes not funnier than the average comedian, but funnier than most. but the magic is that few people can draw well and write jokes. its the combination that propelled him to great success.
+        - when you can't win by being better, you can win by being different.
+        - a good player works hard to win the game everyone else is playing. a great player creates a new game that favors their strengths and avoids their weaknesses
+        - specilization is a powerful way to overome the "accident" of bad genes. the more tyou master a specific skill, the harder it becomes for others to compete with you. boiling water will soften a potato but harden an egg. you can't control whether you are a potato or an egg, but you can decide to play a game where its better to be hard or soft. if you can find a more favorable environment, you can transform the situation from one where the odds are against you to one where they are in your favor.
+    - Genes do not eliminate the need for hard work. They clarify it. They tell us what to work hard on.
+        - once we realize our strengths we know where to spend our time and energy. we know which types of opportunities to look for and whuich types of challenges to avoid.
+        - its more productive to focus on whether you are are fulfilling your own potential than comparing yourself to someone else.
+- chapter 19 (the goldilocks rule: how to stay motivated in life and in work)
+    - the goldilocks rule states that humans experience peak motivation when working on tasks taht are right on the edge of their current abilities.
+        - steven martin story- 10 years spent learning, 4 years spent refining, 4 years as a wild success. how did he stick with his habits for so long? the human brain loves a challenge, but only if its wihtin an optimal zone of difficulty. each year martin expanded his comedy routine, but only by a minute or two. he was always adding new material, but he also kept a few jokes that were guaranteed to get laughs. there were just enough victories to keep him motivated and just enough mistakes to keep him working hard. 
+        - when you start a new habits, its important to keep it as easy as possible so taht you stick with it even when conditions aren't perfect. however once its been established, its important to continue to advance in small ways. these little improvements and new challenges keep you engaged, and if you hit the goldilocks zone just right, you can achieve flow state.
+        - flow state is the experience of being "in the zone", and fully immersed in an activity. to acheive flow state a task must be roughly 4 percent beyond our current ability. improvement requires a delicate balance.
+    - the greatest threat to success is not failure but bordedom
+        - anecdote of what separates the best athletes from the rest. in addition to talent, luck etc, he said "it comes down to who can handle the boredom of training every day, doing the same lifts over and over". really successful people feel the same lack of motivation as everyone else, the difference is they still find a way to show up despite the boredom.
+        - we get bored when habits stop delighting us. the outcome becomes expected. as habits become ordinary, we start derailing our progress to seek novelty. the most habit forming products are those that provide a continuous form of novelty. video games, porn, junk food, each offer experience of continual elements of surprise. this is known as "variable reward" in psychology. the variance leads to the greatest spike of dopamine, enhances memory recall, and accelerates habit formation.
+        - variable rewards don't create a craving, but they amplify the cravings taht we already experience because they reduce boredom.
+    - as habits become routine, they become less interesting and less satisfying. we get bored.
+        - sweet spot is 50/50 split. ahlf of the time you get what you want. half of the time you don't. you need just enough winning to experience satisfaction and just enough wanting to experience desire.
+        - variable reward or not, no habit still stay interseting forever. at some point everyone faces the same challenge on the journey of self-improvement: you ahve to fall in love with bordedom. if you only do the work when its convenient or excirting, youll never be consistent enough to achieve remarkable results.
+    - anyone can work hard when they feel motivated. its the ability to keep going when work isn't exciting that makes the difference.
+        - there have been days that the author didn't feel like writing an article, but he never regretted publishing on schedule. there have been lots of days he felt like relaxing, but he's never regretted showing up and working on somethign that was important to him. you only become excellent if you can be endlessly fascinated by doing the same thing over and over. you have to fall in love with bordeom.
+- chapter 20 (the downside of creating good habits)
+    - The upside of habits is that we can do things without thinking. The downside is that we stop paying attention to little errors.
+    - Habits + Deliberate Practice = Mastery
+    - Reflection and review is a process that allows you to remain conscious of your performance over time.
+        - pat riley his development of CBE (career best effort) program. the lakers had all the talent, but CBE helped them make the most out of what they had. CBE was about analyzing the players performance by looking at their baseline all the way back from highschool, and then looking for 1 percetn improvement each season. and it looked at a lot of stats outside traditional metrics, the "unsung hero" deeds that gave a fuller picture than just hard stats.
+        - reflection and review enables the long term improvement. doesn't ahve to be as complex as CBE from pat riley.
+        - kenyan runner, one of the greatest of all time, still takes notes after every practice in which he reviews his training for the day and searches for areas that can be improved.
+        - swimmer katie ledecky recards her wellness on scale of 1-10 in includes notes on nutriction and how well she slept.
+        - chris rock tries out fresh material at small clubs dozens of times first to test jokes. he brings a notepad on stage and records which bits go over well and where he needs to make adjustmetns.
+        - execs who keep "decision journal" where they record the major decisions they make each week, why they made them, and what they expect the outcome to be. they review their choices at the end of each month or year to see where they were correct and where they went wrong.
+        - improvement is not just about learning habits, its about fine tuning them.
+        - authors practice: each december he does annual review. he tallys up his habits from the year and then asks:
+            - what went well this year
+            - what didn't go well this year
+            - what did i learn
+        - six months later he does "integreity report" in the summer. it helps him realize where he went wrong and motivates him to get back on course. revisit core values and consider whether he has been living acfording to them. reflects on his identity and how he can work to be the person he wished to be. three main questions
+            - what are the core values that drive his life and work?
+            - how is he living and working with integrity right now?
+            - how can he set a higher standard in the future?
+        - each of these just taske a hours per year, but they are crucial periods of refinement and they prevent gradual slides from happening when he doesn't pay attention.
+    - The tighter we cling to an identity, the harder it becomes to grow beyond it.
+        - in the beginning repeating a habit is about building up evidence of your desired identity. as you latch on that new identity, those same beleifs can hold you back from the next level of growth. when working against you, that identity can create pride that encourages you to deny your weak spots and prevents you from truly growing. this is one of the greatest downsides of building habits.
+        - don't latch on to a single identity or let it become an overwhelming part of who you are,  or you will become too ridig or to prone to defend it against any criticism. instead:
+            - “I’m an athlete” becomes “I’m the type of person who is mentally tough and loves a physical challenge.”
+            - “I’m a great soldier” transforms into “I’m the type of person who is disciplined, reliable, and great on a team.”
+            - “I’m the CEO” translates to “I’m the type of person who builds and creates things.”
+- Conclusion:
+    - the holy grail of habit change is not a single 1 percent improvement, but a thousand of them. just as one coin won't make you rich, one positive change is unlikely to deliver a noticeable difference. gradually though, as you continue to layer small changse on top of one another, the scales of life start to move.
+    - success is not a goal to reach or a finish line to cross. it is a system to improve, an endless process to refine. “If you’re having trouble changing your habits, the problem isn’t you. The problem is your system. Bad habits repeat themselves again and again not because you don’t want to change, but because you have the wrong system for change.”
+    - Behaviors are effortless here:
+        - obvious
+        - attractive
+        - easy
+        - satisfying
+    - Behaviors are difficult here:
+        - invisible
+        - unattractive
+        - hard
+        - unsatisfying
+    - You want to push your good habits toward the left side of the spectrum by making them obvious, attractive, easy, and satisfying. Meanwhile, you want to cluster your bad habits toward the right side by making them invisible, unattractive, hard, and unsatisfying.
+# Application ideas:
+- actions steps for all habits:
+    - do the hardest, most important thigns first in the day. this is when i am mostly likely to be able to lock in and focus. as the day goes on, it generally gets harder and harder.
+    - get back to tracking my main habits, using my physical scorecards
+    - think about how i can prime myself for each activity in advance.
+        - set out my bible on my desk the night before. set out coffee + bagels. spend 5 minutes cleaning up and priming myself for an super strong start to the morning.
+    - create a habit stack for the clear pillars of my day: morning, lunch, dinner, and bedtime. look to solidify my habits within these things that will reliably happen around the same time each day.
+    - how can i fine tune my environment to support each habit better? rely more on environment and less on motivation
+        - get more religious about using web blockers to kickstart each main phase. throw it on first thing in the morning (or have it scheduled). throw it on right after standup. throw it on right after lunch.
+        - get rid of the clutter in my apartment. get serious about really investing in my space and making it truly pleasant, clutter free, clean, somewhere that makes me want to get shit done. a place that makes me take pride in my life.
+    - make my bad habits invisible
+        - lock up my weed and put it away every night. this is also the best time to actually commit to locking up for however long ive agreed to.
+        - maybe get more serious about not working at my PC where i am more likely to start messing around on my PC or to pick up a game controller.
+        - use my focus tools to make the online distractions "invisible" and to keep those things out of sight.
+        - put all my controllers and video game peripherals away in the closet? make it more of an intentional decision to pick these up to to choose to play, rather than soemthign i can start so easily.
+    - identify the underlying motivations of my bad habits, and find a way to "highlight" these to myself on a consistent basis. this is especially important with something like weed, where there are a ton of very important reasons that i can very easily make clear to myself and can hopefully be part of a mentality shift in the way that i relate to weed. a bit harder with porn. but try building a better system or regular time of day to sit and contemplate or meditate on the reasons. try visualizaion. try memorization. try ways to keep it fresh. the "mindset" part is something that could benefit me in a lot of areas, but historically i haven't found a way to do it without eventually just ignoring it, or it become rote to the point of losing any meaning. try revisiting this.
+    - conversely, find a way to solidfy the benefit and the opportunity, and the long term value that i am aiming for through each habit, through each small step. visualze where i am headed.
+        - *you can make hard habits more attractive if you can learn to associate them with a positive experience. sometimes all you need is a slight mind set shift.
+    - repetition matters more than time spend doing something, when it comes to making something automatic. make it a priority to do SOMETHING for each habit each day, even if its just a very small part.
+    - optimize my environment. reduce friction for doing the right things, increase friction for doing the hard things.
+        - for every habit, ask the question "how can i design a world where it is the easiest to do this?" or "how can i design a world where it is the hardest to do this bad thing?"
+        - prime my environment in advance. set out my workout clothes. set out my breakfast and my bible, or the video or podcast i wantt o listen to, or the career dev article or book i want to read. remove any points of friction towrads each key habit or task for the day. 
+        - similiarly, remove the bad stuff, or make it harder to access. put all my video game stuff far away and out of sight. lock up my weed. remove the things that tend to distract me. close those doors in advance. its not that i can't get that stuff, but i make it so it takes a little more effort, a little more friction to reach for those things than if they are right infront of me.
+    - habits are an entrance ramp to a highway. they lead you down a path and next thing you know you're speeding towards the next behavior. good habits can sit at the decisive moments that are forks in the road and send you in the direction of a productive day or unproductive one. master these moments.
+        - i know for a fact that how i start my morning right after i get out of bed has a huge impact on the rest of my day, ESPECIALLY when this is the weekend. so many times ive told myself just one or two games of 2k and then ill lock in the rest of the day. that almost never happens. but if i start off productive, i can fly through a big chunk of the day doig lots of things that matter to me without that much extra effort after i get started.
+        - there is the pivotal moment of how i start my work right after standup. its super easy to get sucked into just looking around reddit or logging into 2k.
+        - there is the pivotal moment right after work ends and im tempted to completely switch over to fun mode. 
+        - there is the pivotal moment of chosig whether i am going to put in 10 more minutes to plan my next day or not
+    - new habits should take less than 2 minutes when they start. (see examples in chapter 13 notes). they should not feel like a challenge. the actions that follow can be challenges but the first two minutes should be easy and should be a "gateway" habit that naturally lead me to a more productive path. map out goals on a scale of very easy to very hard. start with the easy end. once i have that down, then i can slowly scale it up to the more challenging parts.
+        - maybe for weed, my first step is to just take the time to review the reasons why i want to stop smoking weed any time before i want to smoke. if i review and still want to smoke, thats fine. but start with actually giving myself the reason why.
+    - ritualize the beginning of a process
+        - make a ritual for each key decision point.
+        - make a ritual for starting work.
+        - make a ritual for my lunch break and the tasks that follow
+            - music (classical? jazz? nature sounds?)
+            - drink
+            - location- maybe separate standup desk and seated desk as play / work.
+            - use focus blocker to kick off my groove. once i get going in the morning the rest gets WAY easier
+            - ambiance: cleaner workspace, less clutter. smell- light a candle?
+            - treat my work time like a sacred ritual: get all my stuff set up, take care of any distractions, clean my workspace, remove distractions, set the mood, light candle as a ritual to sybmolize the sacred time of focus. make it into an event that triggers all my senses
+    - use commitment devices to lock in future behaviors
+        - kitchensafe for weed, internet blocker for porn
+    - think about one time decisions, purchases, environment changest that can better enably my desired behaviors
+        - buy a really exciting programming course, as a way to better enable my career dev habit
+        - spend a bit of money to enable a healthier weed replacemeny hobby- maybe a relaxing creative hobby i can do with my hands. also something better to do right before bed that is screen free, as a way to truly unwind an sleep better.
+    - use technology to automate my good behaviors as much as possible
+        - schedule freedom to block distracting at the same crucial moments every day. 
+        - better sleep: maybe also schedule it to block all internet after a certain time.
+    - what is immediately rewarded is repeated. what is immediately punished is avoided.
+        - most positive habits take a long time to start seeing and feeling the benefits, so work to tie them to shorter term rewards. for habits i want to stop, try making the avoidance visible by rewarding myself with something positive when i dont do it.
+            - if i don't smoke weed or watch porn for a short interval- come up with some reward that would be fun and would re-inforce the new positive identity i want to adapt here. get a massage? buy myself a fun class? buy myself upgraded pc parts or VR?
+    - make the progress visual- use things like a habit tracking to have a record of progress that is more visceral.
+    - after a while, consider changing what i am measuring for each habit (so that it doesn't become about the target, but keeping the true goal in the front and center(
+    - make bad habits more painful and unsatisfying. 
+        - use accountability partners and habit contracts to add additional social cost to any behavior. maybe with lara, if i smoke weed within a 2 week window, i have to sing a kareoke song.
+    - pick the rigth habits that favor my natual abilities and strengths
+        - find a type of exercise and working out that will be the most fun (double down on tennis as something i do more times throughout the week?) find another sport or physical activity that makes it as fun as possible for me? find a basketball trainer or a place to do basketball workouts?
+    - questions to consider in order to look for where i should focus most effort to grow:
+        - waht feels like fun to me, but work to others?
+        - what makes me lose track of time?
+        - where do i get greater returns than the average person?
+        - what comes naturally to me?
+    - as habits become routine, they become less interesting and less satisfying and we become more bored.
+        - its crucial to keep my habits at the edge of my abilities, to keep them still acheivable, but also in a place that does stretch me and does keep my fully engaged.
+    - reflection and review is key in order to remian conscious of my performance over time.
+        - set up periodic times where i asses how my haits are going, where i can look for improvement, how i can keep it fresh.
+            - work in some period of review and assesment at my daily, weekly, monthly intervals.
+                - examples:
+                    - what went well this year
+                    - what didn't go well this year
+                    - what did i learn
+                    - what are the core values that drive his life and work?
+                    - how is he living and working with integrity right now?
+                    - how can he set a higher standard in the future?

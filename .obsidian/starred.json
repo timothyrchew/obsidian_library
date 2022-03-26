@@ -1,0 +1,94 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "meta",
+      "path": "Areas/Productivity/Workflows.md"
+    },
+    {
+      "type": "file",
+      "title": "Video Games",
+      "path": "Areas/Recreation/Video Games.md"
+    },
+    {
+      "type": "file",
+      "title": "New Hanger",
+      "path": "Archive/Archive 9-21-21/notes/New Hanger.md"
+    },
+    {
+      "type": "file",
+      "title": "Prayer List",
+      "path": "Areas/Faith/Prayer List.md"
+    },
+    {
+      "type": "file",
+      "title": "Fun Activity - Hobby Ideas",
+      "path": "Areas/Recreation/Fun Activity - Hobby Ideas.md"
+    },
+    {
+      "type": "file",
+      "title": "New Hanger",
+      "path": "Areas/Recreation/New Hanger.md"
+    },
+    {
+      "type": "file",
+      "title": "2k22",
+      "path": "Resources/2k22.md"
+    },
+    {
+      "type": "file",
+      "title": "Lara Journal Reflection Prompts",
+      "path": "Projects/Lara Future/Lara Journal Reflection Prompts.md"
+    },
+    {
+      "type": "file",
+      "title": "Christmas Week Plans",
+      "path": "Projects/Lara Future/Christmas Week Plans.md"
+    },
+    {
+      "type": "file",
+      "title": "Feature Work",
+      "path": "Areas/Work/Feature Work.md"
+    },
+    {
+      "type": "file",
+      "title": "Standup",
+      "path": "Areas/Work/Standup.md"
+    },
+    {
+      "type": "file",
+      "title": "RW Aircraft Ownership Costs",
+      "path": "Areas/Finance/RW Aircraft Ownership Costs.md"
+    },
+    {
+      "type": "file",
+      "title": "Stardew",
+      "path": "Areas/Recreation/Stardew.md"
+    },
+    {
+      "type": "file",
+      "title": "Credit cards + Points",
+      "path": "Areas/Finance/Credit cards + Points.md"
+    },
+    {
+      "type": "file",
+      "title": "Proposal Ideas",
+      "path": "Projects/Lara Future/Proposal Ideas.md"
+    },
+    {
+      "type": "file",
+      "title": "Scrapbook Proposal Outline",
+      "path": "Projects/Lara Future/Scrapbook Proposal Outline.md"
+    },
+    {
+      "type": "file",
+      "title": "Pilot Program - No Code Feature",
+      "path": "Areas/Work/Feature/Pilot Program - No Code Feature.md"
+    },
+    {
+      "type": "file",
+      "title": "Proposal Final Plans",
+      "path": "Projects/Lara Future/Proposal Final Plans.md"
+    }
+  ]
+}

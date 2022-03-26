@@ -1,0 +1,112 @@
+# Next steps:
+- work through each category and build out a set of 1 year, 3 year, 5 year goals for myself. in addition to any tangible goals, also build out the values or principles that i want to align my life with in each area.
+    - work through the existing reflection questions i have and use the responses to shape my answers to the things below
+    - short / mid / long term goals
+    - guiding values / principles
+    - a mission statement?
+# Approach brainstorm:
+- make a first pass through each category to build a set of goals or principles for each of these pillars of my life. be thinking about what is the underlying value I want to drive my decisions at a smaller scale? or what are specific goals or outcomes I want to see in my life in this are? break them out into short term, midterm, and longer term goals.
+- work at a single life mission statement
+- once i have a clearer set of outcomes or direction for each area, this should serve as my compass to come back to periodically and I should be asking myself how I my life matches up with this direction. what am i doing well, what do i need to change in order to keep moving int he right direction.
+- as time moves on, i should continue revisiting the larger goals to see if i still feel like they are relevant, or if they should evolve or change as my life does the same.
+# Life Mission Statement:
+- live a life fully commited to following god and investing in eternity?
+# Faith Importance:
+- goals:
+    - short term:
+        - find authentic christian community where i can be my full self alongside people who are radically living out the gospel
+        - spiritual formation:
+            - get a grasp on a better way for spiritual growth than the self-dependent, white knuckle, legalistic approach i used in the past.
+            - open myself for god to speak into all parts of my life, and respond to him especially the parts i know he will ask me to change. dig into the hard parts i want to hide from him or i want to put as off limits.
+        - estblish sustainable, regular habits that anchor my life to God in both the ups and downs.
+    - medium term:
+        - begin to look towards more active outward service to the least of these. begin to get more ambitious and proactive about how to use my career for God.
+    - guiding principles / values:
+        - keeping my relationship with God as the central part of my life, from which every other part flows out of it.
+        - knowing and loving God deeply and fully
+        - following God's command to love and serve the least of these
+        - doing my nest with my resources, circumstances, gifting, wiring to chase after the things of God, being able to know at the end that I ran hard for the things that were most important according to God's will for my life
+- questions to reflect on periodically:
+    - what am i doing now to ensure that i can look back on my walk with God at the end of my life without having any regrets?
+    - in what ways am i falling into the trap of living for now rather than living for and investing in eternity?
+    - in what parts of my life am I resisting or being disobedient to God? how am I holding back from God or keeping things from him?
+# Health perspective:
+- guiding principles / values:
+	- when I want to resent the complications, uncertainty, and handicap that come from my health issues:
+		- accept and embrace that this is something God brough into my life to serve a purpose, in some ways that I can know and likely in many I won't know in this life. But I can trust that is is part of his greater purpose and I can come back to it as a touchstone to lean on God and to trust him with my future. Some specific thigns I can hold on to: 
+			- to rely less on my own strength, to be less self dependant
+			- to have a clearer picture of my mortality and to not take the future for granted
+			- to have empathy and compassion for the many that walk through life with much greater medical hardships
+			- to look back and to see the ways that God has provided and taken care of me throughout these trials
+	- when I struggle with wanting to hide my scars, hide my baha, or hide that i struggle to hear others in come contexts:
+		- I want to take the path of embracing my journey, and seeing my battle scars as things to be proud of- that i have faced challenges and scary, hard things and I have pushed through with resiliancy. 
+		- I want to embrace that I have weakness, I have frailty, and that is nothing to be ashamed of. I don't want to be concerned about maintaining some image of someone who has it all together. 
+		- I want to tell someone when I can't hear them, or if I am in bad position to hear them. Don't be weird about it, and get over the stupid shit I done in the past to try to play it off. Acknowledge it for what it is, reveal that, and take care of it so that I can do my best to engage with them in the situation rather than trying to pretend I heard them and coming off as being even more weird.
+	- when i am tempted to worry about the future and potentially having more tumors, hearing issues, and continued uncertainty and vulnerability
+		- remember that i am either in Gods hands or I am not. if I am in his hands, then I everything in front of me I can trust God will be with me and guiding me and that is the place I want to be no matter what lies ahead. I can cling and have peace in the fact that there is always a path of ultimate fluritshing and life ahead of me. If I am not in Gods hands, then this is all just a blip that will utlimatley fade into meaninglessness.
+		- at the end of the day i just happen to be way more aware of my vulnerability. but any one of us is potentially just a single step away from tragedy, from illness, from death. we never know what the future holds. and the more we are aware of our weakness and the more we embrace that reality, the better we can move through life transcending above the trite, the shallow, the games, the distractions. a life well lived is one lived in that transcendent awareness, where the big questions are grappled and lived. the silver lining of my weakness is that there is a gravitational pull up to this level when otherwise it would be much easier to get caught in the meanial.
+	- move forward boldly. don't assume illness will come or will derail the things ahead of me. if it does, i will face it head on with God. but until then i will take advantage of today and tomorrow as an able bodies, capable person.
+
+- questions for reflection:
+    - consider the things that remain up in the air about my health- the potential for more tumors, full hearing loss, passing away earlier. consider my journey throughout this experience with God so far, consider what he has taught me, how he has met me. what he wants to accomplish in me through this experience. how do i want to handle the anxiety and uncertainty? how do i want to balance this with my broader calling in life?
+    - in a very tangible way, i am terrified and do worry still about the possibility of going completely deaf. what will i do with this? how will i handle this with god? what path do i choose with the uncertainty? how does my present struggle and bouts of anxiety fit in the broader story of my journey through my health stuff?
+# Career/Vocation Contemplation:
+- from a financial perspective, investing hard now into getting to a FAANG would be likely the largest ROI on my time compared to any side project or side hustle right now. think clearly about what my goals are and then be lazer focused over the long haul to get there.
+- i want to grind. i want to get after it. i want to feel like i am making the most of my ability and stretching myself 
+- consider an alternate world where i went all in on aviation and flying professionally, and becoming an airline pilot. why doesn't that sit right with me? those same reasons could also become my current life if I just coast like I am right now. for whatever those intial reasons are, make sure that i make this path worth it and better. because i know being a pilot would have been fun. but i know it can be better.
+- ideally i do this on my own terms, other than committing a ton of my life for maybe years in order for largely a shot at financial payoff at the cost of flexibility and autonomy
+- i should be actively looking and dreaming of a side project or side business that would be something i could lose myself in and something i would want to spend my evenings working on. what can get me that excited? that seems like the secret to finding that extra juice to crank long hours. ive captured that in the past but maybe the main issue right now is that i don't have that.
+- keep listening to God and keep taking this to him. don't let off the intensity and the commitment.
+- be more realistic about the financial risk of immersed. its still a longshot to really take off and get acquired at a high price. filter everything ive heard through renjis founders pitch. look at their projections of growing revenue 10x in just 3 - 6 months through user adoption. maybe it will happen but i think its very unlikely. be realistic and be skeptical- use my own mind don't fall back on renjis enthusiasm. and then with a more balanced look, consider the tangible cost of my time and reduced pay for waht is just a shot at a payoff.
+- i think i do want to get back to an early stage. i think i do want to join one, but i think this might not be the best one, and i might be better off going as a founding member.
+- also consider that i wouldn't have the same chance for technical growth if i were to join immersed. id be working under less than ideal condidtions, no mentorship. simpler problems. having to do stuff like design. so there is the chance of stunted growth compared to how i could develop on my own over that time. there is really no upside that i can truly bank on. the big upside is possibility of a payoff, but if it didn't happen...i every other outcome- relationsal, technical, financial, life experiences, could ahve taken a big hit.
+- keep renji in my life. i can still maintain the relationship. i can still stay in touch and keep him in my network. put forth the initiative to do this. still listen to god about the possibiliyt of exploring their community group.
+- if im really going to work, really going to grind, really going to risk, i want to do it for something where the benefit isn't a gamble, but where the benefit (and my mission) is baked into the journey itself. with immersed, if im honest, i wouldn't do it if the possibility of a financial payoff was not there. compare this to something like andela, where given that type of mission itself feels worthwhile. rather than it being about first betting on making a lot of money, and then relying on money being the thing that unlocks what i want to do.
+- really think more about andela and what other opportunities might exist here. think about my strengths as a person with multicultural understanding. my sensibilities. my creative heart. my gentler leadership. being strongly mission driven. being for the poor and underpriveledged. the nagging sense of wanting to start something meaningful in the tech / social entrepreneurship space. and then go back to God and ask him to show me what he wants me to do with this. be persistent. remember how the refugee coding was THE REASON i left film. i beleive God gave my that vision for a reason. continue to go to him and ask him wahts next. but just as intensely, i need to focus on my wholistic faith and full commitment to him. without a strong faith, there is no point in trying to do any of this for God, or expecting him to have any part in it.
+- the key thing for me is not a fear of missing out on immersed. i think its a fear of missing out on my vocation. of being someone who just coasts along and never really goes for it. never taking the risk to chase the dreams that i feel god gave to me. never really pushing to get to the limit of my abilities, to really stretch and make the most out of my unique gifting, experience, perspective.
+- if money was no object, what would i want to be doing with my career?
+- what would be realistic 1/3/5 year plans based on where i feel like God might be calling me? how do i avoid the sense of regret that I didn't go for it hard, that i didn't take risks, that i didn't short change myself based on my god given abilities and talents?
+- my focus should be on making the very most out of my natural ability and my potential, not about acheiving some standard of success or getting wrapped up in comparing my ability to others. if i think about how i maximize my own ability, this ends up such a healtheir way to view growth and success. im just not going to be some high powered CTO or brilliant technical leader or go getter founder. thats not in my DNA, but I can be really effective in this space, i just need to clarify wehre. think about the kind of praise that mably got with her promotion praise. the reality is that im just not that gifted or smart or naturally as strong of a leader. can i accep that i'm not exceptional, but maybe just better than average? what would i want to do if that is the case? what is my path if im just better than average but not outstanding? or a true standout?
+- think hard about what my best strengths are as an engineer and how I best play and focus on them to get to the next level. Is it being a product engineer? Is it focusing more on front end and UX? Is it about rounding out skill sets technically? Is it about project management and leadership skills? Is it as an entrepreneur? Looks back at this past year and think more about this as I frame my next year.
+- look at inspiration from others in this space:
+    - dig deep into andela and the founders story: https://www.youtube.com/watch?v=njiQ1QBotq0
+    - recoded: https://www.youtube.com/watch?v=CO-y_66RxJw&ab_channel=KatapultFutureFest
+- clearly being around someone like renji really sparks something in me. how can i surround myself with the types of people that will push me to be better? maybe its still renji? what would be other ways that i can start intentionally building realtionships and community with people who will stretch me and grow me in healthy ways (also puling from the atomic habits chapter about one of the best ways to change being to surround yourself with the people you want to be like). can i find more social entreprenuers or entreprenuers of the ethos that i resonate more with, ideally with less eye rolling than when around the immersed stuff?
+- consider volunteering with re:coded (iraqi code bootcamp). or look for job opportunities at andela or places like that.
+# Finantial considerations:
+- get real with myself about my financial goals and priorities, and how my vocation and time resources fit into that equation.
+- if money was no object, what would i want to do with my life?
+- values questions:
+    - what are the life values and principles i want to commit my life to financially? consider what the bible has to say about storing up posessions on eartch and the love of money. compared to even all the other things i wrestle with and question in the bible, this is one area arguably the bible is more unequivically clear about. what does this mean for my life? 
+    - how much am i going to value my personal time vs investing in making money? how much do i value flexibility of my lifestyle and work over making money?
+    - what role will giving away money have in my life? what are my giving goals?
+    - how do i stick to these principles once i have established them? how do i deal with the part of my that really does want to be wealthy and wants to have a lot of money? how do i deal with my constant tendency to compare my money, salary, resources with those around me? how do i restore my true principles and ground myself in a lifelong commitment to these values when i will be constantly spoodfed a different message about money, posessions by the entire culture around me (and even the christian chulture and beleivers around me), and when i will be constantly tempted to compare myself to peers and those that i look up to life.
+- tactics questions:
+    - how much money do i want to retire with? what difference would 3 mill make compared to 20 million? 
+    - what would i have saved up if i continued working at my current salary for 20 more years? how much do i want to be saving each month?
+    - create a budget to track where my spending is going, stick to it, and establish clear savings goals.
+    - consider all the different strategies for building wealth and what tracks make sense for me?
+        - starting a company, or equity at a very early stage company
+        - high salary at big tech company
+        - real estate investing
+        - stock market / index funds
+        - some lucrative side business
+- material things that would be cool:
+    - autonomy with my time, flexibility to take off longer chunks of time
+    - being a partner on a turboprop traveling plan
+    - being able to fly business class
+    - having a sailboat. being able to go chill / work / live from a sailboat for an extended period
+    - having a lakehouse or somewhere for my whole family- mom and dad, b&a to be able to get together in a really nice place
+    - being able to provide for and pamper my family
+    - ensuring my parents can have a nice retirement and good care for the rest of their lives
+    - being able to take nice vacations around the world without worrying about money
+    - a tesla
+    - a nice house with room to host my family
+# Community / Relationships:
+- the way in which I have gone about relationships is going to lead me to a place in life where i have very few true close friends. Arguably life is more about rich relationships than any single other point. One day my parents will be gone. I have a rich tapestry of old relationships and family friends, but im teetering on losing them. how am i going to prioritize these? how am i going to truly invest in authentic relationships, both old and new? What am I willing to sacrifice in the way of my personal time to make room for this?
+- I want to get married and I want to have a family. It is of utmost importance that I figure things out with Lara as quickly as possible.
+# Health:
+- My investments now will lay the biggest foundation for my future quality of life. Hypothetically I could kill myself in work, lose sleep, set asside exercise, and I could make a bunch of money but loose my health. And that would be a tradeoff that in no way would be worth it. Its time to really banace this is a core and very important part of my life. I've been able to coast on my youth but that is quickyl running out.
+- I need to get real about the effects of weed on my health, mental sharpness, clarity, eating. Getting cohesively healthy means cutting back significantly, if not entirely from weed.
+- As I age, as I lose more hair, as my body slowly breaks down...embracing health now, building muscle, keeping good cardio...all serve as insurance both for my health and also my appearance. I need to take this more seriously.
+- I want to eat better. i want to cook more food. As I need to get more intentional about eating healthily, learning to cook stuff I like is one of the best steps there- both financially and health wise.

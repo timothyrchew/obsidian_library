@@ -1,0 +1,47 @@
+# What is Faith to me and where is my life headed?
+
+This is arguably the most important question at this point in time, and also the hardest one to begin trying to answer.
+
+Some key factors at play:
+
+I am hungry for more:
+- I have encountered God in my life and in the lives of others in profoundly beautiful, revolutionally, all-encompassing way that I can't shake. It has changed the way I think about my life, about my purpose, about my personal mission for the rest of my life. I have a deep hunger, above everything else, to move forward in this journey in submission and obedience to God. 
+- I know that I am not where I need to be, and I know that my current environment is not going to sustain or foster the life I want in the long term. I have this sense that change is required on the horizon, stepping out of my comfort zone is on the horizon. I am keenly aware that I am on this journey of change and newness. That there is an aspect of healing and regaining footing, and then at some point the journey may switch to becoming more outward. But I still don't have a great grasp on what the steps forward look like for me
+- I still have this PTSD and reaction against so much that I read and see and hear about from within the more conservative and Reformed circles. As I think about moving forward, there is still a deeper fear of engaging in practices or communities that resurface the deep sense of shame, of failure, of ineptitude and struggle that sucked the life out of my faith. There is at times this lingering sense of dread that I will need to go back to those things that feel deeply life draining. And also a fear that if I don't go back to them (or if I stay where I am), I am risking an even greater price to pay with eternal consequences. Oh Lord help me to faithfully take the next step, to trust you with the journey.
+
+
+*Finish skimming Critical Journey for a hint at what the next steps are, what might come next. What it says about breaking through "the wall" and what this could mean for my next steps.
+
+
+The things that I am certain about, and that I need reflected in my life and marriage moving forward:
+- My life commitment is to follow God, submit to God, and be transformed by God. I am not in control, and I acknowledge my smallness, my predisposition to justifying what I want, and constructing God to be how I want. After all is said and done, let God be who he is on his own terms, and I want to follow, know, and love God with my all my heart. My theology may evolve, and this may look different than it used to for me, but at the core I want to develop a posture of humility, submission, and core commitment and action to follow God wherever he asks, and to do this at the expense of myself. I am betting not on being saved by theology or beleif system, but on knowing God and being known by God. I want to take up my cross to follow God, and I want my life to be soaked in the fruits of the spirit. I want a faith that transforms who I am, and how I affect the world around me.
+- I want my family to be at the end of the day, a place that is also committed to following God and teaching God's principles. 
+	- We don't need uniformity of beleif. Lara and I can be on our own journeys in the path of faith, but I do feel strongly that we need to foundation of a commitment to embracing Christian faith in our family and for our kids. When they grow up, they can decide what they want. But at an early age, I really benefitted from having the faith foundation. And the more I think and reflect on this- this is a non-negotiable for me when it comes to thinking about raising a family with Lara.
+- I need a path forward that will allow for change and growth and evolution. I would be foolish to lock myself into any situation or relationship that would hinder my ability to grow in the future, or evolve in the future- either towards are more liberal or a more orthodox faith. I want to avoid external forces that would add a pressure or coercion that might short circuit or derail my authentic pursuit and commitment to God. If Lara has assumptions about where we are headed, or if moving forward with her would box me into a specific type of faith expression, I would be foolish to move forward knowing that I need to have space to grow in different directions. In some sense, the same would be true (although to a lesser extend) if I were to marry a conversative Christian that had clear expectations for my role and my faith expression. 
+
+Practically here are tangible things that faith will impact for me:
+- Personal growth: I need to be doing the work of being transformed at a heart level, into the person God wants me to be. If the gospel is not having a real impact here- something is dead and something is off. This is where it all starts and this is the foundation upon which the rest of my life needs to be built.
+- My vocation: I need to keep the door open to taking a paycut or changing my job based wanting to have a greater impact on the Kingdom. I want to be doing work that alings with serving others.
+- Community: I need people of faith around me, and I want to be participating in a faith community. It would be deeply dissapointing if in the future Lara stopped attending with me.
+- Finances: I am commited to giving away 10 percent to causes around helping the poor, caring for the least of these, my church, faith based orgs doing important work. My desire is that our family could aim for 10 percent collectively, but I think I could compromise on this.
+- Family: I want to be building a healthy, rich spiritual environment for my family. I want to instill a culture of following God and relating to God. I don't want it to be guilt driven or legalistic, but I also want there to be a structure for kids at formative years. As they grow older its their own decision, but I want there to have been that platform that was so helpful to me and so beneficial in my life. Those early years and family culture truly do matter.
+- Serving: This one will probably be dependent on how aligned my vocation is. But I want to live a life where I am taking seriously Jesus' command to serve and care for the least of these. If my faith is just a privatized, self-focused, internal experession then it is not the full expression that Jesus taught.
+
+# On Kids
+
+What I would want to teach (and this comes from things that I have found incredibly valuable and positive in my life). None of these contributed to any of the toxicity I faced later in life with religion.
+- the Bible is one of the ways that God has spoken to human over history. its not the only way, i think there are parts of it that are messy and weighed down by the culture at the time, but there is also incredible beauty and value there:
+	- teaching the basic bible stories: not bothering about whether they are literal or metaphorical- i do think they can build a helpful framework of God's character, and how God relates to people over time and in different circumstances. 
+	- specific verses that can be of enourmous comfort and help in troubling times, or hard things, or worry or anxiety.
+- teaching them that God is behind nature, animals, creation. that is not any that goes against evolution or science. its about notion of a design, of God's creativity expressed in the wonder if nature and animals. Its about the inherant spiritual connection to God through nature. Its about God's beauty expressed through nature.
+- Prayer. That God loves them and wants to be in a relationship with him. That he listens to them. That they can bring their desires, fears, anxiety to them and that he helps them.
+- The notion of an afterlife. That there is more after death.
+- What it means to follow God. That there is an active component to faith. That there is right and wrong, and that God's plan is that we do what is right. Establishing a moral compass and connecting it to God. Not doing this in a legalistic or fear based way, but in a way that is about flourishing, grace filled, and active. I think my parents did a good job of this- I didn't have this guilt or shame. I think it was just a helpful way to move throug the world and to establish a foundation at a young age. As you get older, there is room for a lot more nuance and more black and white. But as a kid having these boundaries and having a box is helpful.
+- Serving. I'd love to instill a culture of serving / volunteering at an early age. Finding a way to do something like this as a family. Maybe even going on one of those service trips overseas. 
+
+
+# Actions:
+- Finish skimming Critical Journey for a hint at what the next steps are, what might come next. What it says about breaking through "the wall" and what this could mean for my next steps.
+- Talk more explicitly and clearly to Lara about her faith, what faith would mean for our family, and raising kids. Share that I have been thinking more practically, and I feel a sense of sobermindedness because i know it will be a hurddle. And these things are hard to compromise for me, because they are rooted in something outside of myself- and in some sense I realize that is not fair to her unless she is also on board from her own accord. How raising kids would be truly where the rubber meets the road and the place with the most landmines when it comes to navigating our future.
+- Watch a service from Ressurection Austin. Consider attending somewhere else to see how Lara would respond or react. 
+- Read about tithing if one spouse is not a beleiver.

@@ -1,0 +1,131 @@
+{
+  "main": {
+    "id": "f059fc22064153eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bc7cbf3a63fe83e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Areas/Recreation/New Hanger.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "7b725c524f8bde65",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Areas/Recreation/New Hanger.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a990e39cddab217e",
+    "type": "split",
+    "children": [
+      {
+        "id": "958e7bd75b80c083",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06ba48b44e4c4173",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f0e0bb0db5b1ddbe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "prayer",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1aa7c85b504b56cb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 233.5
+  },
+  "right": {
+    "id": "be86f81c220ba1e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "273782ed07bcafe1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b60edd2a2a7c2f17",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Areas/Recreation/New Hanger.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "adfd4f959a376879",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Areas/Recreation/New Hanger.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6bc7cbf3a63fe83e",
+  "lastOpenFiles": [
+    "Areas/Recreation/New Hanger.md",
+    "Areas/Work/Feature Work.md",
+    "Areas/Productivity/Workflows.md",
+    "Archive/Archive 9-21-21/notes/New Hanger.md",
+    "Resources/Journal/2021-10-04.md",
+    "Archive/Archive 9-21-21/notes/Food Options.md",
+    "Resources/2k22.md",
+    "Projects/Lara Future/Being intentional about our future.md",
+    "Archive/Archive 9-21-21/notes/2k22.md",
+    "Projects/Lara Future/Untitled.md"
+  ]
+}

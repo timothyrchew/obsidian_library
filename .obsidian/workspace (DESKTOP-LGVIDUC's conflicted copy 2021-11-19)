@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "f059fc22064153eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "3987fb6099a180d4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Projects/Lara Future/Gift ideas.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "35e1ce25e5a57d24",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a990e39cddab217e",
+    "type": "split",
+    "children": [
+      {
+        "id": "958e7bd75b80c083",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06ba48b44e4c4173",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f0e0bb0db5b1ddbe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "prayer",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1aa7c85b504b56cb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 233.5
+  },
+  "right": {
+    "id": "be86f81c220ba1e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "273782ed07bcafe1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b60edd2a2a7c2f17",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Projects/Lara Future/Gift ideas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "adfd4f959a376879",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Projects/Lara Future/Gift ideas.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3987fb6099a180d4",
+  "lastOpenFiles": [
+    "Projects/Lara Future/Gift ideas.md",
+    "Areas/Recreation/New Hanger.md",
+    "Areas/Work/RFC/RFC.md",
+    "Areas/Work/RFC/RFC Business search.md",
+    "Areas/Work/RFC/CSR Business Search Notes.md",
+    "Areas/Work/RFC/CSR Business Search.md",
+    "Areas/Faith/Prayer List.md",
+    "Resources/Journal/2021-11-16.md",
+    "Projects/Lara Future/Lara Journal Reflection Prompts.md",
+    "Areas/Work/Feature Work.md"
+  ]
+}

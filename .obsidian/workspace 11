@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "6629504d3cbb8517",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc9f9c23ef8c3208",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "now.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7a6f43bcafb368a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "888d624cefb0dd0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10ee97799aaf6ac6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2f00efcebb184194",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9b3c2a323f581e56",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f157ed6dd7163722",
+    "type": "split",
+    "children": [
+      {
+        "id": "798fae40555a37e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2693cbd26544d238",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "now.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "97ef840ab8c06917",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "now.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "dc9f9c23ef8c3208",
+  "lastOpenFiles": [
+    "now.md"
+  ]
+}

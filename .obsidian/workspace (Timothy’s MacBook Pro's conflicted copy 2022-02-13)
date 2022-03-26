@@ -1,0 +1,121 @@
+{
+  "main": {
+    "id": "f059fc22064153eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6c95622b4dff6d1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Areas/Productivity/Workflows.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a990e39cddab217e",
+    "type": "split",
+    "children": [
+      {
+        "id": "958e7bd75b80c083",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06ba48b44e4c4173",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f0e0bb0db5b1ddbe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1aa7c85b504b56cb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 321.5121879577637
+  },
+  "right": {
+    "id": "be86f81c220ba1e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "273782ed07bcafe1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b60edd2a2a7c2f17",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Areas/Productivity/Workflows.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "adfd4f959a376879",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Areas/Productivity/Workflows.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c6c95622b4dff6d1",
+  "lastOpenFiles": [
+    "Areas/Productivity/Workflows.md",
+    "Areas/Work/Feature/Pilot Program - No Code Feature.md",
+    "Resources/2k22.md",
+    "Areas/Finance/Credit cards + Points.md",
+    "Areas/Finance/RW Aircraft Ownership Costs.md",
+    "Areas/Finance/Net Worth.md",
+    "Areas/Finance/Lara Investment Ideas.md",
+    "Areas/Finance/Accounts.md",
+    "Areas/Work/Feature Work.md",
+    "Areas/Work/Work Scratchpad.md"
+  ]
+}

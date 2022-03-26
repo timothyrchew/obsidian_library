@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "f059fc22064153eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec432d65e7913182",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/New Hanger.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ff5d789afff22951",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc1747994a8c9b91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec597a0691cdb273",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "44766651cc92dccf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "391f995b3c36e67c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2a29ae0ee8ebc721",
+    "type": "split",
+    "children": [
+      {
+        "id": "45af4a667a76f03f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ca50e583cd89430",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/New Hanger.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d6b3a59470251e66",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "cf85c87e2673a300",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "b8524ef886477655",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "937e6938c87ebf13",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "5efb77f62138cec2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ce1c71385a934750",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "notes/New Hanger.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ec432d65e7913182",
+  "lastOpenFiles": [
+    "notes/New Hanger.md",
+    "work.md",
+    "now.md",
+    "notes/interview_prep/bond.tech.md",
+    "notes/interview_prep/designATM.md",
+    "Interview Prep.md",
+    "Interview Soft Questions 2021.md",
+    "meta.md",
+    "notes/therapy and parent notes.md",
+    "notes/LL Gift Ideas  - Aniversary brainstorm.md"
+  ]
+}

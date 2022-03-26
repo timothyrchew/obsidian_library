@@ -1,0 +1,5 @@
+I feel like I have this sense this morning, maybe from God that I can move forward with Lara but that it will be hard at times. There will be additional challenges, but that there is a path for me to walk with God. I feel a sense of the gravity of this decision. I can see how hard it will be. Oh God does this mean I should not do it?
+
+I also was reminded how I would carry the extra burden of feeling like I am the one responsible for investing in my kids spiritually. Lara would probably not be super active in this. And as we encounter hardships and challenges, she will probably not be the person to encourage and uplift me in my faith. I will need to be ok being the primary person to bear this responsibility, or to turn to others in my life for this type of encouragement.
+
+That when / if we encounter tragedy, that could significantly shift her view on life and on faith. That it could crumbe quickly and there could be nothing there.

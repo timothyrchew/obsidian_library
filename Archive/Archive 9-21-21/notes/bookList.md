@@ -1,0 +1,159 @@
+# active read (duplicate):
+- short history of nearly everything
+- the evening and the morning
+# active listen (duplicate):
+# on deck (duplicate):
+- The Seven Story Mountain: Merton
+# Inbox
+# Productivity, Time Management, Discpline
+- Goal planning / Long term goal management:
+    - First Things First
+        - good stuff about a framework to help manage competing priorites on a weekly basis. how to bridge the gap between long term goals and urgent priorities.
+    - Start Finishing
+        - good ideas about project planning across different timescales
+    - 12 Week Year
+    - Your Best Year Ever
+    - Essentialism
+        - ruthlessly prioritizing the most important things
+    - Getting Things Done
+        - worth reviewing for a tried and true system, with some things to say about project management and managing different long term horizons
+    - Making It All Work (David Allen, sequel to GTD)
+        - goes more into depth about manaing the different time perspectives, but not as clear on how to translate those directly into the actions you should be doing each week.
+    - Goals! Brian Tracy
+    - 7 Habits of Highly Effective People
+    - The One Thing
+        - good content about how to prioritize and pick what is truly most important
+    - Free to Focus
+        - rejuviation, as well as good section on week planning / review process  with a template, avoiding distraction
+    - Make Time
+    - SMART Goal Setting Made Simple
+    - Project Management for the Unofficial Project Manager
+    - Making Things Happen: Mastering Project Management
+    - Scrum : The Art of Doing Twice the Work in Half the Time
+- Atomic Habits
+- Switch: How to change things when change is hard
+- The Compound Effect
+- Rewire Your Brain
+- Willpower Doesnt work
+- Mastery
+- Measure What Matters
+- The Power of Full Engagement
+- Outlier: Stories of Success (Malcolm Gladwell)
+- Daily Rituals: How Artists Work
+- power of habit
+- the now habit
+- willpower (roy baumeister)
+- the war of art
+- Discipline Equals Freedom
+- Do the Work
+- Flow
+- The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing
+- Deep Work: Rules for Focused Success in a Distracted World
+- Extreme Ownership
+- willpower instinct
+- grit (angela duckworth)
+- the slight edge
+- Finish: Give Yourself the Gift of Done
+- Path of Least Resistance: Learning to Become the Creative Force in Your Own Life
+- Digital Minimalism
+- Miracle Morning
+- The First 20 Hours: How to Learn Anything . . . Fast!
+- Mindset: The New Psychology of Success
+# Personal Growth 
+- how to read a book
+- Marcus Aurellius' Meditations
+- The Power of Vulnerability: Teachings on Authenticity, Connection and Courage(look at TED talk)
+- The Charisma Myth: How Anyone Can Master the Art and Science of Personal Magnetism
+- The Consolation of Philosophy
+# Career
+- Clean Code
+- Code Complete
+- The Managers Path
+- The Pragmatic Programmer
+- The Phoenix Project
+- Designing Data Intensive Programs
+- The Design of Everyday Things
+# Casual Non-fiction:
+- talking to strangers
+- the snowball: warren buffet
+- losing my virginity richard branson
+- when thunder rolled
+- a lonely kind of war
+- skunkworks
+- fate is the hunter
+- meditations
+- on the shortness of life
+- peoples history, howard zinn
+- a short history of nearly everything
+# Dealing with Anxiety, Stress, Depression (Operation Soothe):
+- feeling good: david burns (CBT approach as mental painkillers, dealing with anxiety and depression)
+- feel the fear and do it anyway (susan jeffers)
+- The Happiness Trap: How to Stop Struggling and Start Living (ACT approach)
+- Dare: The New Way to End Anxiety and Stop Panic Attacks
+- Rewire Your Anxious Brain: How to Use the Neuroscience of Fear to End Anxiety
+- Hope and Help for Your Nerves
+- How to stop worrying and start living (dale carnegie)
+- The Upward Spiral: Using Neuroscience to Reverse the Course of Depression
+# Christian
+- Spiritual Formation:
+    - dallas willard
+        - renovation of the heart
+        - divine conspiracy
+        - spirit of the disciplines, understanding how god changes lives
+    - eugene peterson
+        - A Long Obedience in the Same Direction: Discipleship in an Instant Society
+    - richard j foster
+        - celebration of discipline
+    - Brother Lawrence
+        - The Practice of the Presence of God
+    - M. Robert Mulholland Jr
+        - Invitation to a Journey: A Road Map for Spiritual Formation
+    - nouwen
+        - Spiritual Direction: Wisdom for the Long Walk of Faith
+    - rohr:
+        - Breathing underwater (connecting the 12 steps to faith, interesting to look at a more progressive approach to tackling sin and addiction and change)
+    - ruth haley barton:
+        - Sacred Rhythms: Arranging Our Lives for Spiritual Transformation (seems to identify with rohr, but also very practical about how to structure life for growth via the discplines)
+    - martin laird:
+        - An Ocean of Light: Contemplation, Transformation, and Liberation (takes seat next to the classic christian contemplatic mystics, highly regarded works on contemplative prayer and christian meditation)
+    - skye jethani
+        - With: Reimagining the Way You Relate to God (changing our posture to God, recognizing the dysfunctional ways we try to relate to him)
+- Thomas Merton
+    - The Seven Storey Mountain 
+        - autobiolgraphical- story of his journey from a hedonistic lifestyle to that of a trappist monk. very influential in catholic contemplative circles. nouwen listen merton as one of his biggest influences) 
+        - (quote that i love: "The more you try to avoid suffering, the more you suffer, because smaller and more insignificant things begin to torture you, in proportion to your fear of being hurt. The one who does most to avoid suffering is, in the end, the one who suffers most.")
+- Sex and the Single Savior: Gender and Sexuality in Biblical Interpretation (academic book, highly praised in progressive circles of outline a different approach to sexuality)
+- mortification of sin
+- confessions, saint augustine
+- Do More Better: A Practical Guide to Productivity
+- How to Get Unstuck: Breaking Free from Barriers to Your Productivity
+- The Disciplined Life: Studies in the Fine Art of Christian Discipleship
+- Learning to Walk in the Dark
+- Breathing Under Water: Spirituality and the Twelve Steps
+- The Enneagram: A Christian Perspective
+- Spiritual Depression: Its Causes and Its Cure (!)
+- a new type of christian (brian mclaren)
+- falling upwards (rohr)
+- a blue parakeet (on biblical interpretation)
+- The Seven Story Mountain: Merton
+- Lewis
+    - reflections on the psalms (intersting look at his unorthodox approach to difficult scriptures)
+    - screwtape letters
+    - a greif observed (he leaves faith and then rebuilds it after his wife dies)
+    - the problem of pain
+    - mere christianity
+- surprised by hope (nt wright: decronstructs heaven, hell, afterlife)
+- searching for sunday (rachel held evans)
+- celebration of discipline (richard j foster, from quaker tradition)
+- cost of disciplineship (bonhoeffer)
+- prodigal god (keller)
+- Uncle Dave recommendations:
+    - charles finney: principles of discipleship
+    - pseudo-macarius: the fifty spiritual homilies and the great letter
+    - John Climacus: The Ladder of Divine Ascent
+    - conferences john cassian
+- Spurgeon's Sorrows: Realistic Hope for those who Suffer from Depression
+- pilgrims progress
+- comedy sex god (pete holmes)
+- The Resurrection of the Son of God (NT Wright, listed as one of the best books about the historicity of Jesus and the resurrection) 
+# Finished, but keeping on the bookshelf:

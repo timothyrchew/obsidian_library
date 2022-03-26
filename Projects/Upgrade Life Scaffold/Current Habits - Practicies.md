@@ -1,0 +1,7 @@
+- Waking up with intention. Don't spend a long time in bed wasting time reading the news.
+- Get outside and start my day doing a prayer walk and stretching my legs in nature
+- Block off social media during the day. Turn on filters, especially on my work computer to stop clicking away. Maximize my time at work so that I can shut it off and maximize my personal time away during the evening.
+- Take physical fitness seriously, do something active every day. This is the investment in my future ability to enjoy life.
+- Learn something new around a career area of growth every day
+- Take a step to respond and grow towards God today
+- Do something fun that is truly restorative. Show compassion and practice good self care.

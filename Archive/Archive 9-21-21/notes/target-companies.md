@@ -1,0 +1,19 @@
+
+target companies:
+- google
+- microsoft
+- gitlab
+- airbnb
+- notion
+- coda
+- linkedin
+- fullstory
+- stripe
+- apple
+- indeed
+- redfin
+- dropbox
+- lyft
+- square
+- twilio
+- twitter

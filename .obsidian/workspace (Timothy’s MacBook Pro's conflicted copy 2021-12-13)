@@ -1,0 +1,121 @@
+{
+  "main": {
+    "id": "f059fc22064153eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "84cc6f5e35cc8d8e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Resources/2k22.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a990e39cddab217e",
+    "type": "split",
+    "children": [
+      {
+        "id": "958e7bd75b80c083",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06ba48b44e4c4173",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f0e0bb0db5b1ddbe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1aa7c85b504b56cb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 233.5
+  },
+  "right": {
+    "id": "be86f81c220ba1e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "273782ed07bcafe1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b60edd2a2a7c2f17",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Resources/2k22.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "adfd4f959a376879",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Resources/2k22.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "84cc6f5e35cc8d8e",
+  "lastOpenFiles": [
+    "Resources/2k22.md",
+    "Resources/Journal/2021-10-14.md",
+    "Areas/Productivity/Week Planner.md",
+    "Areas/Work/Feature Work.md",
+    "Inbox/Birthday Card for Lara.md",
+    "Areas/Work/Standup.md",
+    "Areas/Work/Presentations/Monitoring and Alerts ALL HANDS Script.md",
+    "Areas/Work/Presentations/DD Dashboards for feature delivery.md",
+    "Areas/Work/RFC/CSR Business search Notes.md",
+    "Areas/Work/Presentations/All Hands Present Notes.md"
+  ]
+}

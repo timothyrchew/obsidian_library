@@ -1,0 +1,12 @@
+Alerting update:
+
+- Wanted to touch on our initiative is to refine our bondOS monitoring and Pagerduty alerts.
+- There are two specific paintpoints that we are looking to address:
+	- One that has been especially evident in the last couple days, is the amount of noise around alerts. If you take a look through the pager-duty-bond-os slack channel, you can see there is not much nuance around how we handle errors, and right now every error triggers a PagerDuty alert. So for those on call, it can feel like the boy who cried wolf, especially given the fact that most of these errors are not very actionable.
+	- The second painpoint has to do with there are multiple teams responsible for the bondOS application, and we don't currently connect errors to specific domains of ownership. We have one BondOS PagerDuty service that receives all the errors, when in an ideal world we would like to have PagerDuty services that are more reflective of the teams working on the application, and we'd like to have errors from that teams domain routed to that teams PagerDuty service.
+		- that will help narrow the scope of on-call responsibilities and help with some of the initial triaging that needs to be done manually at this stage.
+
+- Our approach here is going to be a tiered, starting with the os-frontend codebase and then addressing os-backend. 
+	- We've introduced Datadog RUM to the frontned, and that currently lives alongside Sentry. There is a lot of overlap between those services, and we don't see both of them being necessary moving forward. 
+		- Whereas Sentry currently forwards every error to PagerDuty, we'd like to move away from that approach and we'd like use threshold based monitors in Datadog, in a way that allows us to be a bit more nuanced and targetted in what triggers a pagerduty alert. And obviously this will take a bit of time to fine tune, but we feel like Datadog's monitors give us more tools to surface issues that have more urgency around them.
+	- The second action item right now, is for us to add more context to errors, in a way that will let us automatically route errors to the team with onwership for that part of the app. Our approach for this, is to use Error Boundary components, that will tag errors before they are sent to DD, allowing us to use targetted DD monitors to route those to the correct PagerDuty service.

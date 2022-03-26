@@ -1,0 +1,27 @@
+# Next Steps For Community
+- i feel like i want to wait until i feel "all in". but should that be the bar for joining true community? why couldn't I join now, being real and honest and open to finding true community.
+- it feels like community fell appart for me last time in part because i was doing it out of obligation, habit, and performance. it stopped being real and authentic. and ultimately i reached a point of really reckonning and wrestling with my faith, my dissapointment with god, my frustration with the grind of faith.  reconciling these things from my past, wrestling through a lot of cynicism and dissapointent and dissonance with christian community.
+- from there i need to in some sense tear it down to the studs, examine it. and then go stud by stud, making sure its stable, making sure its sound and can bare weight. and i think that my involvement in church community has to potential to add more wieght than the frame can bare. im not sure im at that spot right now where i have the solid enough of a foundation, a solid enough of a sense that im fully back in.
+- despite all these hesitations, i still need to ask what type of community would i be willing to join now?
+    - a place where i would feel safe to truly walk through this existential questioning without judgement, without shallow answers. a place that encouraged these questions and i would feel like i could do this authentically, without falling into the habit of conforming and knocking this authentic seeking of God off track
+    - ideally a place with a mix of some others that were also questioning and wrestling. something like what "all souls" initially seemed like. not too churchy. just a tight night community where questions and thinking deeper seemed to be welcome.
+# Sharing with Renji
+- ill be honest dude my faith has been in a tough spot for a while now
+- there have been these waves of rekonning ive gone through since my divorce. of dealing with the layers of pain, loss, dissapointment. and a lot of things id been dealing with, frustrations with faith and community, have come out. way more than i thought was there.
+- specifically:
+    - i was angry with god. with how my life had turned out.
+    - i was burnt out in my faith. i was just running with the skeleton of a faith with no heart in it. i had lost a real faith, a real walk with God.
+    - church and community had become a place that i increasingly grew cynical about. i felt like it was shallow, it didn't feel very real. i found i was doing things out of a sense of habit, out of not wanting to let others down, out of a sense of obligation, not out of a genuine place of desire in me. years of doing this, going through the motions had sucked me dry.
+- my life is like this building that got hit by a hurricane the year of my divorce. its almost like i got knocked out for a little while. i was just in survival mode. i was just getting by. i was turning to what i was used to. but then its like i woke up and looked around, and was holy shit...that whole house got knocked down. i thought it had a strong foundation. i thought it would withstand a storm. and now, here i am, looking around, trying to understand why it collapsed so easy. and then figuring out how i go about rebuilding it. starting at the foundation, setting up a framework etc.
+- why did it break?
+    - i lost touch with the heart of my faith. it stopped being a living, breathing relationship with God. it had turned into this somewhat legalistic, accepted way of living.
+    - i would have said at an earlier point in my life I didn't go through a period of questioning in college. this is when i lost my hearing, discovered my brain tumor.
+- how did community fail me?
+    - terrible experience at the church we were at when i went through the divorce. felt betrayed on mutliple levels by people i trusted there.
+    - ended up feeling abandoned by a lot of the people i had been in christiancommunity with for years. a number of friendships i thought i could rely on kinda evaporated.
+    - i got tired of church culture. the fixation on culture wars. the cowardice in calling out some of these darker undertones. the failure to confront a complicity with trump, hitching the wagon entirely to the pro-life train and ignoring everything else.
+    - but a lot of it was just me. the patterns i had fallen into. the cynicism that had developed in me. some bad experiences that left a really sour taste in my life. feeling like if i could come back to it in a healthjy way, i would need to find a way to hit the reset button. to engage on new terms.
+- what is community like for me right now?
+    - i go the virtual service at christ church. but im not actively involved with a small group right now. but i do have a long time friends that are beleivers that i see that have been part of this. doing therapy. my parents.
+- what am i doing right now?
+    - working to re-engage with God from ground zero. Asking these existential questions. Without just accepting the set of assumptions I grew up with, asking how do I know God is good. How do I know I can trust the bible. How do i reconcile a lot of my deep dissapointment, and in some cases my anger, towards God. I spent a really long time settling for these Christian platitudes, without really addressing the real struggle the real dissonance, the real deep sense of dissapointmetn with God. I think I was scared to step out of that familair bubble to really ask the hard, scary questions.

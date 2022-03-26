@@ -1,0 +1,10 @@
+{
+  "readableLineLength": false,
+  "communityPluginSortOrder": "download",
+  "emacsyKeys": false,
+  "autoPairBrackets": true,
+  "autoPairMarkdown": false,
+  "alwaysUpdateLinks": true,
+  "legacyEditor": false,
+  "livePreview": false
+}
