@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Areas/Finance/Credit cards + Points.md",
+            "file": "Projects/Wedding Planning/Talk to Lara about budget.md",
             "mode": "source",
             "source": true
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Finance/Credit cards + Points.md",
+                "file": "Projects/Wedding Planning/Talk to Lara about budget.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Finance/Credit cards + Points.md"
+                "file": "Projects/Wedding Planning/Talk to Lara about budget.md"
               }
             }
           }
@@ -115,6 +115,7 @@
   },
   "active": "7f4609b0de9bba0a",
   "lastOpenFiles": [
+    "Projects/Wedding Planning/Talk to Lara about budget.md",
     "Areas/Finance/Credit cards + Points.md",
     "Projects/Direction and Purpose/Vision refocus March 2022.md",
     "Areas/Productivity/Workflows.md",
@@ -123,7 +124,6 @@
     "Areas/Recreation/New Hanger.md",
     "Areas/Recreation/Fun Activity - Hobby Ideas.md",
     "Areas/Work/Work Mindset Reset March 2022.md",
-    "Areas/Work/Daily Work Reflection.md",
-    "Projects/Wedding Planning/Asking Groomsmen.md"
+    "Areas/Work/Daily Work Reflection.md"
   ]
 }
