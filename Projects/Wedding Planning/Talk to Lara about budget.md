@@ -1,6 +1,5 @@
 to me, at a certain point there are just diminishing returns. if we were getting 20k from your prents, and we adding 10k ourself, that makes more sense. that would unlock more stuff. but if we have 50k from them, i just don't see the value of us spending 10k more for stuff we will never remember when we look back. (consider what we could do, the vacations we could take, the experiences we could have with that money in our normal lives- especially if her grandmother is giving us a gift that is not connected to the wedding directly)
-
-what are we really going to remember and value when we look back? from my own experience- its not that stuff. its not uncommon for people to say they don't remember a lot of it. by far the special memories are celebrating with the people that love you. its not about the flower arangement or the live band. if we are paying out of our own pockets, it just isn't even close to worth it for me. the value is so diminished and unecessary compared to what we could do with that money.
+36ember and value when we look back? from my own experience- its not that stuff. its not uncommon for people to say they don't remember a lot of it. by far the special memories are celebrating with the people that love you. its not about the flower arangement or the live band. if we are paying out of our own pockets, it just isn't even close to worth it for me. the value is so diminished and unecessary compared to what we could do with that money.
 
 
 why can't we just say that 50k is our budget?
