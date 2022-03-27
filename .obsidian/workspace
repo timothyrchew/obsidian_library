@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Resources/2k22.md",
+            "file": "Areas/Faith/Prayer List.md",
             "mode": "source",
             "source": true
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/2k22.md",
+                "file": "Areas/Faith/Prayer List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/2k22.md"
+                "file": "Areas/Faith/Prayer List.md"
               }
             }
           }
@@ -116,6 +116,7 @@
   },
   "active": "7f4609b0de9bba0a",
   "lastOpenFiles": [
+    "Areas/Faith/Prayer List.md",
     "Resources/2k22.md",
     "Projects/Wedding Planning/Talk to Lara about budget.md",
     "Areas/Finance/Credit cards + Points.md",
@@ -124,7 +125,6 @@
     "Projects/Direction and Purpose/lifeVisionDirection.md",
     "Areas/Recreation/Video Games.md",
     "Areas/Recreation/New Hanger.md",
-    "Areas/Recreation/Fun Activity - Hobby Ideas.md",
-    "Areas/Work/Work Mindset Reset March 2022.md"
+    "Areas/Recreation/Fun Activity - Hobby Ideas.md"
   ]
 }

@@ -4,6 +4,7 @@
 	- thanksgiving
 	- my immediate:
 		- lead me to the right spiritual resource for Lara and I to engage with together.
+		- help us to navigate the wedding planning gracefully, and united. guide us as we discuss the budget and look to find unity here.
     - spiritual formation
 		- learning how to change and to grow authentically. relying on your power, while doing my part to respond to it.
 		- uncover the roots of my unwanted sexual behavior. help me to get to the root issues, to understand and do work at the core. bring lasting, true heart change to me in this area. help me to learn what the process of true transformation looks like through this part of my life.
@@ -29,9 +30,10 @@
 				- lead us to more spiritual co-journeyers that we can build a relationship with. more friendships and stronger community that could speak into our lives, that could model faith for lara.
 				- if / when it becomes time to move to another community, show us that clearly and lead us to the next place.
 		- wedding planning
-			- conversation with dustin
-			- conversation with groomsmen
-			- for face to face connections with jeremy
+			- unity with lara around budget
+			- conversation with dustin, that he would be able to do this
+			- conversation with groomsmen, that they would be able to do join
+			- for face to face connections with jeremy. that we could meetup soon to discuss this.
 			- venue and logistics
 	- For work:
 		- for learning to trust God, and walk with him through the daily challenges and pressures. that i would keep the right perspective and truly learn to lean on God and rely on him. that i would experience peace, calm, and surrender of these things with God.
